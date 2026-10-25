@@ -2375,86 +2375,6 @@
       "width": 416,
       "height": 440
     },
-    "gear/cape_t1.webp": {
-      "file": "gear/cape_t1.webp",
-      "width": 264,
-      "height": 280
-    },
-    "gear/cape_t2.webp": {
-      "file": "gear/cape_t2.webp",
-      "width": 241,
-      "height": 280
-    },
-    "gear/cape_t3.webp": {
-      "file": "gear/cape_t3.webp",
-      "width": 278,
-      "height": 280
-    },
-    "gear/head_bandana.webp": {
-      "file": "gear/head_bandana.webp",
-      "width": 239,
-      "height": 280
-    },
-    "gear/head_circlet.webp": {
-      "file": "gear/head_circlet.webp",
-      "width": 254,
-      "height": 280
-    },
-    "gear/head_crown.webp": {
-      "file": "gear/head_crown.webp",
-      "width": 245,
-      "height": 280
-    },
-    "gear/head_feathers.webp": {
-      "file": "gear/head_feathers.webp",
-      "width": 246,
-      "height": 280
-    },
-    "gear/head_hat.webp": {
-      "file": "gear/head_hat.webp",
-      "width": 328,
-      "height": 280
-    },
-    "gear/head_helm.webp": {
-      "file": "gear/head_helm.webp",
-      "width": 183,
-      "height": 280
-    },
-    "gear/head_helmClosed.webp": {
-      "file": "gear/head_helmClosed.webp",
-      "width": 210,
-      "height": 280
-    },
-    "gear/head_helmHorned.webp": {
-      "file": "gear/head_helmHorned.webp",
-      "width": 292,
-      "height": 280
-    },
-    "gear/head_hood.webp": {
-      "file": "gear/head_hood.webp",
-      "width": 261,
-      "height": 280
-    },
-    "gear/head_mask.webp": {
-      "file": "gear/head_mask.webp",
-      "width": 245,
-      "height": 280
-    },
-    "gear/head_mitre.webp": {
-      "file": "gear/head_mitre.webp",
-      "width": 208,
-      "height": 280
-    },
-    "gear/head_skullcap.webp": {
-      "file": "gear/head_skullcap.webp",
-      "width": 235,
-      "height": 280
-    },
-    "gear/head_tricorn.webp": {
-      "file": "gear/head_tricorn.webp",
-      "width": 420,
-      "height": 280
-    },
     "gear/off_book_t1.webp": {
       "file": "gear/off_book_t1.webp",
       "width": 308,
@@ -2528,86 +2448,6 @@
     "gear/off_shield_t3.webp": {
       "file": "gear/off_shield_t3.webp",
       "width": 196,
-      "height": 280
-    },
-    "gear/shoulder_crest.webp": {
-      "file": "gear/shoulder_crest.webp",
-      "width": 446,
-      "height": 280
-    },
-    "gear/shoulder_crystal.webp": {
-      "file": "gear/shoulder_crystal.webp",
-      "width": 288,
-      "height": 280
-    },
-    "gear/shoulder_dragon.webp": {
-      "file": "gear/shoulder_dragon.webp",
-      "width": 359,
-      "height": 280
-    },
-    "gear/shoulder_flame.webp": {
-      "file": "gear/shoulder_flame.webp",
-      "width": 277,
-      "height": 280
-    },
-    "gear/shoulder_gem.webp": {
-      "file": "gear/shoulder_gem.webp",
-      "width": 425,
-      "height": 280
-    },
-    "gear/shoulder_horn.webp": {
-      "file": "gear/shoulder_horn.webp",
-      "width": 304,
-      "height": 280
-    },
-    "gear/shoulder_layer.webp": {
-      "file": "gear/shoulder_layer.webp",
-      "width": 379,
-      "height": 280
-    },
-    "gear/shoulder_leaf.webp": {
-      "file": "gear/shoulder_leaf.webp",
-      "width": 327,
-      "height": 280
-    },
-    "gear/shoulder_lion.webp": {
-      "file": "gear/shoulder_lion.webp",
-      "width": 333,
-      "height": 280
-    },
-    "gear/shoulder_moon.webp": {
-      "file": "gear/shoulder_moon.webp",
-      "width": 360,
-      "height": 280
-    },
-    "gear/shoulder_plate.webp": {
-      "file": "gear/shoulder_plate.webp",
-      "width": 323,
-      "height": 280
-    },
-    "gear/shoulder_rune.webp": {
-      "file": "gear/shoulder_rune.webp",
-      "width": 459,
-      "height": 280
-    },
-    "gear/shoulder_skull.webp": {
-      "file": "gear/shoulder_skull.webp",
-      "width": 314,
-      "height": 280
-    },
-    "gear/shoulder_spike.webp": {
-      "file": "gear/shoulder_spike.webp",
-      "width": 298,
-      "height": 280
-    },
-    "gear/shoulder_wing.webp": {
-      "file": "gear/shoulder_wing.webp",
-      "width": 297,
-      "height": 280
-    },
-    "gear/shoulder_wolf.webp": {
-      "file": "gear/shoulder_wolf.webp",
-      "width": 303,
       "height": 280
     },
     "gear/weapon_axe_t1.webp": {
@@ -2810,224 +2650,324 @@
       "width": 280,
       "height": 280
     },
-    "heroes/base_dwarf_chain.webp": {
-      "file": "heroes/base_dwarf_chain.webp",
-      "width": 380,
-      "height": 440
+    "gear/worn_cape_t1.webp": {
+      "file": "gear/worn_cape_t1.webp",
+      "width": 194,
+      "height": 280
     },
-    "heroes/base_dwarf_leather.webp": {
-      "file": "heroes/base_dwarf_leather.webp",
+    "gear/worn_cape_t2.webp": {
+      "file": "gear/worn_cape_t2.webp",
+      "width": 224,
+      "height": 280
+    },
+    "gear/worn_cape_t3.webp": {
+      "file": "gear/worn_cape_t3.webp",
+      "width": 196,
+      "height": 280
+    },
+    "gear/worn_head_bandana.webp": {
+      "file": "gear/worn_head_bandana.webp",
+      "width": 256,
+      "height": 280
+    },
+    "gear/worn_head_circlet.webp": {
+      "file": "gear/worn_head_circlet.webp",
+      "width": 384,
+      "height": 280
+    },
+    "gear/worn_head_crown.webp": {
+      "file": "gear/worn_head_crown.webp",
+      "width": 308,
+      "height": 280
+    },
+    "gear/worn_head_feathers.webp": {
+      "file": "gear/worn_head_feathers.webp",
+      "width": 222,
+      "height": 280
+    },
+    "gear/worn_head_hat.webp": {
+      "file": "gear/worn_head_hat.webp",
+      "width": 376,
+      "height": 280
+    },
+    "gear/worn_head_helm.webp": {
+      "file": "gear/worn_head_helm.webp",
+      "width": 197,
+      "height": 280
+    },
+    "gear/worn_head_helmClosed.webp": {
+      "file": "gear/worn_head_helmClosed.webp",
+      "width": 205,
+      "height": 280
+    },
+    "gear/worn_head_helmHorned.webp": {
+      "file": "gear/worn_head_helmHorned.webp",
+      "width": 351,
+      "height": 280
+    },
+    "gear/worn_head_hood.webp": {
+      "file": "gear/worn_head_hood.webp",
+      "width": 229,
+      "height": 280
+    },
+    "gear/worn_head_mask.webp": {
+      "file": "gear/worn_head_mask.webp",
       "width": 358,
-      "height": 440
+      "height": 280
     },
-    "heroes/base_dwarf_plate.webp": {
-      "file": "heroes/base_dwarf_plate.webp",
-      "width": 381,
-      "height": 440
+    "gear/worn_head_mitre.webp": {
+      "file": "gear/worn_head_mitre.webp",
+      "width": 173,
+      "height": 280
     },
-    "heroes/base_dwarf_robe.webp": {
-      "file": "heroes/base_dwarf_robe.webp",
-      "width": 396,
-      "height": 440
+    "gear/worn_head_skullcap.webp": {
+      "file": "gear/worn_head_skullcap.webp",
+      "width": 218,
+      "height": 280
     },
-    "heroes/base_gnome_chain.webp": {
-      "file": "heroes/base_gnome_chain.webp",
-      "width": 297,
-      "height": 440
+    "gear/worn_head_tricorn.webp": {
+      "file": "gear/worn_head_tricorn.webp",
+      "width": 415,
+      "height": 280
     },
-    "heroes/base_gnome_leather.webp": {
-      "file": "heroes/base_gnome_leather.webp",
-      "width": 304,
-      "height": 440
+    "gear/worn_shoulder_crest.webp": {
+      "file": "gear/worn_shoulder_crest.webp",
+      "width": 335,
+      "height": 280
     },
-    "heroes/base_gnome_plate.webp": {
-      "file": "heroes/base_gnome_plate.webp",
-      "width": 364,
-      "height": 440
+    "gear/worn_shoulder_crystal.webp": {
+      "file": "gear/worn_shoulder_crystal.webp",
+      "width": 341,
+      "height": 280
     },
-    "heroes/base_gnome_robe.webp": {
-      "file": "heroes/base_gnome_robe.webp",
-      "width": 320,
-      "height": 440
+    "gear/worn_shoulder_dragon.webp": {
+      "file": "gear/worn_shoulder_dragon.webp",
+      "width": 382,
+      "height": 280
     },
-    "heroes/base_human_chain.webp": {
-      "file": "heroes/base_human_chain.webp",
-      "width": 355,
-      "height": 440
+    "gear/worn_shoulder_flame.webp": {
+      "file": "gear/worn_shoulder_flame.webp",
+      "width": 339,
+      "height": 280
     },
-    "heroes/base_human_leather.webp": {
-      "file": "heroes/base_human_leather.webp",
-      "width": 310,
-      "height": 440
+    "gear/worn_shoulder_gem.webp": {
+      "file": "gear/worn_shoulder_gem.webp",
+      "width": 419,
+      "height": 280
     },
-    "heroes/base_human_plate.webp": {
-      "file": "heroes/base_human_plate.webp",
+    "gear/worn_shoulder_horn.webp": {
+      "file": "gear/worn_shoulder_horn.webp",
       "width": 371,
-      "height": 440
+      "height": 280
     },
-    "heroes/base_human_robe.webp": {
-      "file": "heroes/base_human_robe.webp",
-      "width": 342,
-      "height": 440
+    "gear/worn_shoulder_layer.webp": {
+      "file": "gear/worn_shoulder_layer.webp",
+      "width": 365,
+      "height": 280
     },
-    "heroes/base_nightelf_chain.webp": {
-      "file": "heroes/base_nightelf_chain.webp",
-      "width": 327,
-      "height": 440
+    "gear/worn_shoulder_leaf.webp": {
+      "file": "gear/worn_shoulder_leaf.webp",
+      "width": 387,
+      "height": 280
     },
-    "heroes/base_nightelf_leather.webp": {
-      "file": "heroes/base_nightelf_leather.webp",
-      "width": 315,
-      "height": 440
+    "gear/worn_shoulder_lion.webp": {
+      "file": "gear/worn_shoulder_lion.webp",
+      "width": 337,
+      "height": 280
     },
-    "heroes/base_nightelf_plate.webp": {
-      "file": "heroes/base_nightelf_plate.webp",
-      "width": 247,
-      "height": 440
+    "gear/worn_shoulder_moon.webp": {
+      "file": "gear/worn_shoulder_moon.webp",
+      "width": 365,
+      "height": 280
     },
-    "heroes/base_nightelf_robe.webp": {
-      "file": "heroes/base_nightelf_robe.webp",
-      "width": 294,
-      "height": 440
+    "gear/worn_shoulder_plate.webp": {
+      "file": "gear/worn_shoulder_plate.webp",
+      "width": 363,
+      "height": 280
     },
-    "heroes/base_orc_chain.webp": {
-      "file": "heroes/base_orc_chain.webp",
-      "width": 313,
-      "height": 440
+    "gear/worn_shoulder_rune.webp": {
+      "file": "gear/worn_shoulder_rune.webp",
+      "width": 351,
+      "height": 280
     },
-    "heroes/base_orc_leather.webp": {
-      "file": "heroes/base_orc_leather.webp",
-      "width": 298,
-      "height": 440
+    "gear/worn_shoulder_skull.webp": {
+      "file": "gear/worn_shoulder_skull.webp",
+      "width": 358,
+      "height": 280
     },
-    "heroes/base_orc_plate.webp": {
-      "file": "heroes/base_orc_plate.webp",
-      "width": 345,
-      "height": 440
+    "gear/worn_shoulder_spike.webp": {
+      "file": "gear/worn_shoulder_spike.webp",
+      "width": 335,
+      "height": 280
     },
-    "heroes/base_orc_robe.webp": {
-      "file": "heroes/base_orc_robe.webp",
-      "width": 354,
-      "height": 440
+    "gear/worn_shoulder_wing.webp": {
+      "file": "gear/worn_shoulder_wing.webp",
+      "width": 276,
+      "height": 280
     },
-    "heroes/base_tauren_chain.webp": {
-      "file": "heroes/base_tauren_chain.webp",
-      "width": 369,
-      "height": 440
-    },
-    "heroes/base_tauren_leather.webp": {
-      "file": "heroes/base_tauren_leather.webp",
-      "width": 378,
-      "height": 440
-    },
-    "heroes/base_tauren_plate.webp": {
-      "file": "heroes/base_tauren_plate.webp",
-      "width": 388,
-      "height": 440
-    },
-    "heroes/base_tauren_robe.webp": {
-      "file": "heroes/base_tauren_robe.webp",
-      "width": 414,
-      "height": 440
-    },
-    "heroes/base_troll_chain.webp": {
-      "file": "heroes/base_troll_chain.webp",
-      "width": 354,
-      "height": 440
-    },
-    "heroes/base_troll_leather.webp": {
-      "file": "heroes/base_troll_leather.webp",
-      "width": 280,
-      "height": 440
-    },
-    "heroes/base_troll_plate.webp": {
-      "file": "heroes/base_troll_plate.webp",
-      "width": 295,
-      "height": 440
-    },
-    "heroes/base_troll_robe.webp": {
-      "file": "heroes/base_troll_robe.webp",
-      "width": 274,
-      "height": 440
-    },
-    "heroes/base_undead_chain.webp": {
-      "file": "heroes/base_undead_chain.webp",
-      "width": 260,
-      "height": 440
-    },
-    "heroes/base_undead_leather.webp": {
-      "file": "heroes/base_undead_leather.webp",
-      "width": 305,
-      "height": 440
-    },
-    "heroes/base_undead_plate.webp": {
-      "file": "heroes/base_undead_plate.webp",
-      "width": 315,
-      "height": 440
-    },
-    "heroes/base_undead_robe.webp": {
-      "file": "heroes/base_undead_robe.webp",
+    "gear/worn_shoulder_wolf.webp": {
+      "file": "gear/worn_shoulder_wolf.webp",
       "width": 309,
-      "height": 440
+      "height": 280
     },
-    "heroes/hero_dwarf_hunter.webp": {
-      "file": "heroes/hero_dwarf_hunter.webp",
-      "width": 422,
-      "height": 440
-    },
-    "heroes/hero_dwarf_priest.webp": {
-      "file": "heroes/hero_dwarf_priest.webp",
-      "width": 460,
-      "height": 440
-    },
-    "heroes/hero_gnome_warlock.webp": {
-      "file": "heroes/hero_gnome_warlock.webp",
+    "heroes/body_dwarf_chain.webp": {
+      "file": "heroes/body_dwarf_chain.webp",
       "width": 383,
       "height": 440
     },
-    "heroes/hero_human_mage.webp": {
-      "file": "heroes/hero_human_mage.webp",
-      "width": 472,
+    "heroes/body_dwarf_leather.webp": {
+      "file": "heroes/body_dwarf_leather.webp",
+      "width": 370,
       "height": 440
     },
-    "heroes/hero_human_paladin.webp": {
-      "file": "heroes/hero_human_paladin.webp",
-      "width": 431,
+    "heroes/body_dwarf_plate.webp": {
+      "file": "heroes/body_dwarf_plate.webp",
+      "width": 389,
       "height": 440
     },
-    "heroes/hero_nightelf_druid.webp": {
-      "file": "heroes/hero_nightelf_druid.webp",
-      "width": 336,
+    "heroes/body_dwarf_robe.webp": {
+      "file": "heroes/body_dwarf_robe.webp",
+      "width": 367,
       "height": 440
     },
-    "heroes/hero_nightelf_hunter.webp": {
-      "file": "heroes/hero_nightelf_hunter.webp",
-      "width": 362,
+    "heroes/body_gnome_chain.webp": {
+      "file": "heroes/body_gnome_chain.webp",
+      "width": 329,
       "height": 440
     },
-    "heroes/hero_orc_warlock.webp": {
-      "file": "heroes/hero_orc_warlock.webp",
-      "width": 422,
+    "heroes/body_gnome_leather.webp": {
+      "file": "heroes/body_gnome_leather.webp",
+      "width": 326,
       "height": 440
     },
-    "heroes/hero_orc_warrior.webp": {
-      "file": "heroes/hero_orc_warrior.webp",
-      "width": 393,
+    "heroes/body_gnome_plate.webp": {
+      "file": "heroes/body_gnome_plate.webp",
+      "width": 347,
       "height": 440
     },
-    "heroes/hero_tauren_warrior.webp": {
-      "file": "heroes/hero_tauren_warrior.webp",
-      "width": 423,
+    "heroes/body_gnome_robe.webp": {
+      "file": "heroes/body_gnome_robe.webp",
+      "width": 341,
       "height": 440
     },
-    "heroes/hero_troll_shaman.webp": {
-      "file": "heroes/hero_troll_shaman.webp",
-      "width": 387,
+    "heroes/body_human_chain.webp": {
+      "file": "heroes/body_human_chain.webp",
+      "width": 302,
       "height": 440
     },
-    "heroes/hero_undead_rogue.webp": {
-      "file": "heroes/hero_undead_rogue.webp",
-      "width": 357,
+    "heroes/body_human_leather.webp": {
+      "file": "heroes/body_human_leather.webp",
+      "width": 295,
+      "height": 440
+    },
+    "heroes/body_human_plate.webp": {
+      "file": "heroes/body_human_plate.webp",
+      "width": 316,
+      "height": 440
+    },
+    "heroes/body_human_robe.webp": {
+      "file": "heroes/body_human_robe.webp",
+      "width": 323,
+      "height": 440
+    },
+    "heroes/body_nightelf_chain.webp": {
+      "file": "heroes/body_nightelf_chain.webp",
+      "width": 242,
+      "height": 440
+    },
+    "heroes/body_nightelf_leather.webp": {
+      "file": "heroes/body_nightelf_leather.webp",
+      "width": 261,
+      "height": 440
+    },
+    "heroes/body_nightelf_plate.webp": {
+      "file": "heroes/body_nightelf_plate.webp",
+      "width": 266,
+      "height": 440
+    },
+    "heroes/body_nightelf_robe.webp": {
+      "file": "heroes/body_nightelf_robe.webp",
+      "width": 271,
+      "height": 440
+    },
+    "heroes/body_orc_chain.webp": {
+      "file": "heroes/body_orc_chain.webp",
+      "width": 346,
+      "height": 440
+    },
+    "heroes/body_orc_leather.webp": {
+      "file": "heroes/body_orc_leather.webp",
+      "width": 353,
+      "height": 440
+    },
+    "heroes/body_orc_plate.webp": {
+      "file": "heroes/body_orc_plate.webp",
+      "width": 372,
+      "height": 440
+    },
+    "heroes/body_orc_robe.webp": {
+      "file": "heroes/body_orc_robe.webp",
+      "width": 370,
+      "height": 440
+    },
+    "heroes/body_tauren_chain.webp": {
+      "file": "heroes/body_tauren_chain.webp",
+      "width": 374,
+      "height": 440
+    },
+    "heroes/body_tauren_leather.webp": {
+      "file": "heroes/body_tauren_leather.webp",
+      "width": 348,
+      "height": 440
+    },
+    "heroes/body_tauren_plate.webp": {
+      "file": "heroes/body_tauren_plate.webp",
+      "width": 379,
+      "height": 440
+    },
+    "heroes/body_tauren_robe.webp": {
+      "file": "heroes/body_tauren_robe.webp",
+      "width": 371,
+      "height": 440
+    },
+    "heroes/body_troll_chain.webp": {
+      "file": "heroes/body_troll_chain.webp",
+      "width": 371,
+      "height": 440
+    },
+    "heroes/body_troll_leather.webp": {
+      "file": "heroes/body_troll_leather.webp",
+      "width": 339,
+      "height": 440
+    },
+    "heroes/body_troll_plate.webp": {
+      "file": "heroes/body_troll_plate.webp",
+      "width": 335,
+      "height": 440
+    },
+    "heroes/body_troll_robe.webp": {
+      "file": "heroes/body_troll_robe.webp",
+      "width": 280,
+      "height": 440
+    },
+    "heroes/body_undead_chain.webp": {
+      "file": "heroes/body_undead_chain.webp",
+      "width": 341,
+      "height": 440
+    },
+    "heroes/body_undead_leather.webp": {
+      "file": "heroes/body_undead_leather.webp",
+      "width": 280,
+      "height": 440
+    },
+    "heroes/body_undead_plate.webp": {
+      "file": "heroes/body_undead_plate.webp",
+      "width": 344,
+      "height": 440
+    },
+    "heroes/body_undead_robe.webp": {
+      "file": "heroes/body_undead_robe.webp",
+      "width": 302,
       "height": 440
     },
     "icons/acid-spit.webp": {
@@ -4434,6 +4374,66 @@
       "file": "items/i-wand.webp",
       "width": 128,
       "height": 128
+    },
+    "machines/ballista_1.webp": {
+      "file": "machines/ballista_1.webp",
+      "width": 390,
+      "height": 360
+    },
+    "machines/ballista_2.webp": {
+      "file": "machines/ballista_2.webp",
+      "width": 426,
+      "height": 360
+    },
+    "machines/ballista_3.webp": {
+      "file": "machines/ballista_3.webp",
+      "width": 398,
+      "height": 360
+    },
+    "machines/ballista_wreck.webp": {
+      "file": "machines/ballista_wreck.webp",
+      "width": 495,
+      "height": 360
+    },
+    "machines/cart_1.webp": {
+      "file": "machines/cart_1.webp",
+      "width": 412,
+      "height": 360
+    },
+    "machines/cart_2.webp": {
+      "file": "machines/cart_2.webp",
+      "width": 405,
+      "height": 360
+    },
+    "machines/cart_3.webp": {
+      "file": "machines/cart_3.webp",
+      "width": 391,
+      "height": 360
+    },
+    "machines/cart_wreck.webp": {
+      "file": "machines/cart_wreck.webp",
+      "width": 516,
+      "height": 360
+    },
+    "machines/tent_1.webp": {
+      "file": "machines/tent_1.webp",
+      "width": 439,
+      "height": 360
+    },
+    "machines/tent_2.webp": {
+      "file": "machines/tent_2.webp",
+      "width": 388,
+      "height": 360
+    },
+    "machines/tent_3.webp": {
+      "file": "machines/tent_3.webp",
+      "width": 404,
+      "height": 360
+    },
+    "machines/tent_wreck.webp": {
+      "file": "machines/tent_wreck.webp",
+      "width": 530,
+      "height": 360
     },
     "map/mo_board.webp": {
       "file": "map/mo_board.webp",
