@@ -1,0 +1,5094 @@
+{
+  "assets": {
+    "audio/music/music_battle_dungeon.mp3": {
+      "file": "audio/music/music_battle_dungeon.mp3",
+      "type": "audio",
+      "size": 3885370
+    },
+    "audio/music/music_battle_savage.mp3": {
+      "file": "audio/music/music_battle_savage.mp3",
+      "type": "audio",
+      "size": 3783469
+    },
+    "audio/music/music_battle_standard.mp3": {
+      "file": "audio/music/music_battle_standard.mp3",
+      "type": "audio",
+      "size": 3573157
+    },
+    "audio/music/music_battle_undead.mp3": {
+      "file": "audio/music/music_battle_undead.mp3",
+      "type": "audio",
+      "size": 3684228
+    },
+    "audio/music/music_boss_cthun.mp3": {
+      "file": "audio/music/music_boss_cthun.mp3",
+      "type": "audio",
+      "size": 4141345
+    },
+    "audio/music/music_boss_dungeon.mp3": {
+      "file": "audio/music/music_boss_dungeon.mp3",
+      "type": "audio",
+      "size": 3999957
+    },
+    "audio/music/music_boss_kelthuzad.mp3": {
+      "file": "audio/music/music_boss_kelthuzad.mp3",
+      "type": "audio",
+      "size": 3497195
+    },
+    "audio/music/music_boss_nefarian.mp3": {
+      "file": "audio/music/music_boss_nefarian.mp3",
+      "type": "audio",
+      "size": 3905234
+    },
+    "audio/music/music_boss_ragnaros.mp3": {
+      "file": "audio/music/music_boss_ragnaros.mp3",
+      "type": "audio",
+      "size": 3705377
+    },
+    "audio/music/music_map_alliance.mp3": {
+      "file": "audio/music/music_map_alliance.mp3",
+      "type": "audio",
+      "size": 3767010
+    },
+    "audio/music/music_map_desert.mp3": {
+      "file": "audio/music/music_map_desert.mp3",
+      "type": "audio",
+      "size": 3852438
+    },
+    "audio/music/music_map_horde.mp3": {
+      "file": "audio/music/music_map_horde.mp3",
+      "type": "audio",
+      "size": 3555564
+    },
+    "audio/music/music_map_nightelf.mp3": {
+      "file": "audio/music/music_map_nightelf.mp3",
+      "type": "audio",
+      "size": 3501103
+    },
+    "audio/music/music_map_snow.mp3": {
+      "file": "audio/music/music_map_snow.mp3",
+      "type": "audio",
+      "size": 3586281
+    },
+    "audio/music/music_map_spooky.mp3": {
+      "file": "audio/music/music_map_spooky.mp3",
+      "type": "audio",
+      "size": 3797514
+    },
+    "audio/music/music_menu_main.mp3": {
+      "file": "audio/music/music_menu_main.mp3",
+      "type": "audio",
+      "size": 3503830
+    },
+    "audio/music/music_stinger_defeat.mp3": {
+      "file": "audio/music/music_stinger_defeat.mp3",
+      "type": "audio",
+      "size": 1776339
+    },
+    "audio/music/music_stinger_defeat_short.mp3": {
+      "file": "audio/music/music_stinger_defeat_short.mp3",
+      "type": "audio",
+      "size": 2687279
+    },
+    "audio/music/music_stinger_victory.mp3": {
+      "file": "audio/music/music_stinger_victory.mp3",
+      "type": "audio",
+      "size": 1993674
+    },
+    "audio/music/music_stinger_victory_short.mp3": {
+      "file": "audio/music/music_stinger_victory_short.mp3",
+      "type": "audio",
+      "size": 3080839
+    },
+    "audio/music/music_tavern_inn.mp3": {
+      "file": "audio/music/music_tavern_inn.mp3",
+      "type": "audio",
+      "size": 3656053
+    },
+    "audio/music/music_town_bootybay.mp3": {
+      "file": "audio/music/music_town_bootybay.mp3",
+      "type": "audio",
+      "size": 4200421
+    },
+    "audio/music/music_town_darnassus.mp3": {
+      "file": "audio/music/music_town_darnassus.mp3",
+      "type": "audio",
+      "size": 3967027
+    },
+    "audio/music/music_town_ironforge.mp3": {
+      "file": "audio/music/music_town_ironforge.mp3",
+      "type": "audio",
+      "size": 3639365
+    },
+    "audio/music/music_town_orgrimmar.mp3": {
+      "file": "audio/music/music_town_orgrimmar.mp3",
+      "type": "audio",
+      "size": 3797790
+    },
+    "audio/music/music_town_stormwind.mp3": {
+      "file": "audio/music/music_town_stormwind.mp3",
+      "type": "audio",
+      "size": 3638158
+    },
+    "audio/music/music_town_thunderbluff.mp3": {
+      "file": "audio/music/music_town_thunderbluff.mp3",
+      "type": "audio",
+      "size": 3718569
+    },
+    "audio/music/music_town_undercity.mp3": {
+      "file": "audio/music/music_town_undercity.mp3",
+      "type": "audio",
+      "size": 3494616
+    },
+    "backgrounds/bg_aq.webp": {
+      "file": "backgrounds/bg_aq.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_aq20.webp": {
+      "file": "backgrounds/bg_aq20.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_bfd.webp": {
+      "file": "backgrounds/bg_bfd.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_brd.webp": {
+      "file": "backgrounds/bg_brd.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_bwl.webp": {
+      "file": "backgrounds/bg_bwl.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_dm.webp": {
+      "file": "backgrounds/bg_dm.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_dmaul.webp": {
+      "file": "backgrounds/bg_dmaul.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_downs.webp": {
+      "file": "backgrounds/bg_downs.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_gnomer.webp": {
+      "file": "backgrounds/bg_gnomer.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_kraul.webp": {
+      "file": "backgrounds/bg_kraul.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_lbrs.webp": {
+      "file": "backgrounds/bg_lbrs.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_mara.webp": {
+      "file": "backgrounds/bg_mara.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_mc.webp": {
+      "file": "backgrounds/bg_mc.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_naxx.webp": {
+      "file": "backgrounds/bg_naxx.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_ony.webp": {
+      "file": "backgrounds/bg_ony.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_scholo.webp": {
+      "file": "backgrounds/bg_scholo.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_sfk.webp": {
+      "file": "backgrounds/bg_sfk.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_sm.webp": {
+      "file": "backgrounds/bg_sm.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_st.webp": {
+      "file": "backgrounds/bg_st.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_stockade.webp": {
+      "file": "backgrounds/bg_stockade.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_strat.webp": {
+      "file": "backgrounds/bg_strat.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_ulda.webp": {
+      "file": "backgrounds/bg_ulda.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_wc.webp": {
+      "file": "backgrounds/bg_wc.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zf.webp": {
+      "file": "backgrounds/bg_zf.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zg.webp": {
+      "file": "backgrounds/bg_zg.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_alterac.webp": {
+      "file": "backgrounds/bg_zone_alterac.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_arathi.webp": {
+      "file": "backgrounds/bg_zone_arathi.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_ashenvale.webp": {
+      "file": "backgrounds/bg_zone_ashenvale.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_azshara.webp": {
+      "file": "backgrounds/bg_zone_azshara.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_badlands.webp": {
+      "file": "backgrounds/bg_zone_badlands.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_barrens.webp": {
+      "file": "backgrounds/bg_zone_barrens.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_blasted_lands.webp": {
+      "file": "backgrounds/bg_zone_blasted_lands.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_burning_steppes.webp": {
+      "file": "backgrounds/bg_zone_burning_steppes.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_darkshore.webp": {
+      "file": "backgrounds/bg_zone_darkshore.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_deadwind.webp": {
+      "file": "backgrounds/bg_zone_deadwind.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_desolace.webp": {
+      "file": "backgrounds/bg_zone_desolace.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_dun_morogh.webp": {
+      "file": "backgrounds/bg_zone_dun_morogh.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_durotar.webp": {
+      "file": "backgrounds/bg_zone_durotar.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_duskwood.webp": {
+      "file": "backgrounds/bg_zone_duskwood.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_dustwallow.webp": {
+      "file": "backgrounds/bg_zone_dustwallow.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_elwynn.webp": {
+      "file": "backgrounds/bg_zone_elwynn.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_epl.webp": {
+      "file": "backgrounds/bg_zone_epl.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_felwood.webp": {
+      "file": "backgrounds/bg_zone_felwood.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_feralas.webp": {
+      "file": "backgrounds/bg_zone_feralas.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_gilneas.webp": {
+      "file": "backgrounds/bg_zone_gilneas.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_hillsbrad.webp": {
+      "file": "backgrounds/bg_zone_hillsbrad.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_hinterlands.webp": {
+      "file": "backgrounds/bg_zone_hinterlands.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_hyjal.webp": {
+      "file": "backgrounds/bg_zone_hyjal.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_loch_modan.webp": {
+      "file": "backgrounds/bg_zone_loch_modan.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_moonglade.webp": {
+      "file": "backgrounds/bg_zone_moonglade.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_mulgore.webp": {
+      "file": "backgrounds/bg_zone_mulgore.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_redridge.webp": {
+      "file": "backgrounds/bg_zone_redridge.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_searing_gorge.webp": {
+      "file": "backgrounds/bg_zone_searing_gorge.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_silithus.webp": {
+      "file": "backgrounds/bg_zone_silithus.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_silverpine.webp": {
+      "file": "backgrounds/bg_zone_silverpine.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_stonetalon.webp": {
+      "file": "backgrounds/bg_zone_stonetalon.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_stranglethorn.webp": {
+      "file": "backgrounds/bg_zone_stranglethorn.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_swamp_of_sorrows.webp": {
+      "file": "backgrounds/bg_zone_swamp_of_sorrows.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_tanaris.webp": {
+      "file": "backgrounds/bg_zone_tanaris.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_teldrassil.webp": {
+      "file": "backgrounds/bg_zone_teldrassil.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_thousand_needles.webp": {
+      "file": "backgrounds/bg_zone_thousand_needles.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_tirisfal.webp": {
+      "file": "backgrounds/bg_zone_tirisfal.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_twilight_highlands.webp": {
+      "file": "backgrounds/bg_zone_twilight_highlands.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_ungoro.webp": {
+      "file": "backgrounds/bg_zone_ungoro.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_westfall.webp": {
+      "file": "backgrounds/bg_zone_westfall.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_wetlands.webp": {
+      "file": "backgrounds/bg_zone_wetlands.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_winterspring.webp": {
+      "file": "backgrounds/bg_zone_winterspring.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "backgrounds/bg_zone_wpl.webp": {
+      "file": "backgrounds/bg_zone_wpl.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "buildings/building_argent_alchemist.webp": {
+      "file": "buildings/building_argent_alchemist.webp",
+      "width": 539,
+      "height": 440
+    },
+    "buildings/building_argent_board.webp": {
+      "file": "buildings/building_argent_board.webp",
+      "width": 413,
+      "height": 440
+    },
+    "buildings/building_argent_chapel.webp": {
+      "file": "buildings/building_argent_chapel.webp",
+      "width": 348,
+      "height": 440
+    },
+    "buildings/building_argent_forge.webp": {
+      "file": "buildings/building_argent_forge.webp",
+      "width": 450,
+      "height": 440
+    },
+    "buildings/building_argent_market.webp": {
+      "file": "buildings/building_argent_market.webp",
+      "width": 515,
+      "height": 440
+    },
+    "buildings/building_argent_quartermaster.webp": {
+      "file": "buildings/building_argent_quartermaster.webp",
+      "width": 461,
+      "height": 440
+    },
+    "buildings/building_argent_tavern.webp": {
+      "file": "buildings/building_argent_tavern.webp",
+      "width": 465,
+      "height": 440
+    },
+    "buildings/building_argent_trainer.webp": {
+      "file": "buildings/building_argent_trainer.webp",
+      "width": 409,
+      "height": 440
+    },
+    "buildings/building_cenarion_alchemist.webp": {
+      "file": "buildings/building_cenarion_alchemist.webp",
+      "width": 472,
+      "height": 440
+    },
+    "buildings/building_cenarion_board.webp": {
+      "file": "buildings/building_cenarion_board.webp",
+      "width": 455,
+      "height": 440
+    },
+    "buildings/building_cenarion_forge.webp": {
+      "file": "buildings/building_cenarion_forge.webp",
+      "width": 464,
+      "height": 440
+    },
+    "buildings/building_cenarion_market.webp": {
+      "file": "buildings/building_cenarion_market.webp",
+      "width": 457,
+      "height": 440
+    },
+    "buildings/building_cenarion_quartermaster.webp": {
+      "file": "buildings/building_cenarion_quartermaster.webp",
+      "width": 459,
+      "height": 440
+    },
+    "buildings/building_cenarion_roost.webp": {
+      "file": "buildings/building_cenarion_roost.webp",
+      "width": 420,
+      "height": 440
+    },
+    "buildings/building_cenarion_sanctum.webp": {
+      "file": "buildings/building_cenarion_sanctum.webp",
+      "width": 406,
+      "height": 440
+    },
+    "buildings/building_cenarion_tavern.webp": {
+      "file": "buildings/building_cenarion_tavern.webp",
+      "width": 459,
+      "height": 440
+    },
+    "buildings/building_cenarion_trainer.webp": {
+      "file": "buildings/building_cenarion_trainer.webp",
+      "width": 462,
+      "height": 440
+    },
+    "buildings/building_dwarf_alchemist.webp": {
+      "file": "buildings/building_dwarf_alchemist.webp",
+      "width": 426,
+      "height": 440
+    },
+    "buildings/building_dwarf_board.webp": {
+      "file": "buildings/building_dwarf_board.webp",
+      "width": 399,
+      "height": 440
+    },
+    "buildings/building_dwarf_enchanter.webp": {
+      "file": "buildings/building_dwarf_enchanter.webp",
+      "width": 369,
+      "height": 440
+    },
+    "buildings/building_dwarf_forge.webp": {
+      "file": "buildings/building_dwarf_forge.webp",
+      "width": 453,
+      "height": 440
+    },
+    "buildings/building_dwarf_forge_great.webp": {
+      "file": "buildings/building_dwarf_forge_great.webp",
+      "width": 453,
+      "height": 440
+    },
+    "buildings/building_dwarf_market.webp": {
+      "file": "buildings/building_dwarf_market.webp",
+      "width": 507,
+      "height": 440
+    },
+    "buildings/building_dwarf_quartermaster.webp": {
+      "file": "buildings/building_dwarf_quartermaster.webp",
+      "width": 502,
+      "height": 440
+    },
+    "buildings/building_dwarf_stable.webp": {
+      "file": "buildings/building_dwarf_stable.webp",
+      "width": 434,
+      "height": 440
+    },
+    "buildings/building_dwarf_tavern.webp": {
+      "file": "buildings/building_dwarf_tavern.webp",
+      "width": 442,
+      "height": 440
+    },
+    "buildings/building_dwarf_temple.webp": {
+      "file": "buildings/building_dwarf_temple.webp",
+      "width": 526,
+      "height": 512
+    },
+    "buildings/building_dwarf_trainer.webp": {
+      "file": "buildings/building_dwarf_trainer.webp",
+      "width": 533,
+      "height": 440
+    },
+    "buildings/building_elf_alchemist.webp": {
+      "file": "buildings/building_elf_alchemist.webp",
+      "width": 452,
+      "height": 440
+    },
+    "buildings/building_elf_blackmarket.webp": {
+      "file": "buildings/building_elf_blackmarket.webp",
+      "width": 449,
+      "height": 440
+    },
+    "buildings/building_elf_board.webp": {
+      "file": "buildings/building_elf_board.webp",
+      "width": 451,
+      "height": 440
+    },
+    "buildings/building_elf_enchanter.webp": {
+      "file": "buildings/building_elf_enchanter.webp",
+      "width": 336,
+      "height": 440
+    },
+    "buildings/building_elf_forge.webp": {
+      "file": "buildings/building_elf_forge.webp",
+      "width": 442,
+      "height": 440
+    },
+    "buildings/building_elf_market.webp": {
+      "file": "buildings/building_elf_market.webp",
+      "width": 460,
+      "height": 440
+    },
+    "buildings/building_elf_quartermaster.webp": {
+      "file": "buildings/building_elf_quartermaster.webp",
+      "width": 463,
+      "height": 440
+    },
+    "buildings/building_elf_stable.webp": {
+      "file": "buildings/building_elf_stable.webp",
+      "width": 464,
+      "height": 440
+    },
+    "buildings/building_elf_tavern.webp": {
+      "file": "buildings/building_elf_tavern.webp",
+      "width": 428,
+      "height": 440
+    },
+    "buildings/building_elf_temple.webp": {
+      "file": "buildings/building_elf_temple.webp",
+      "width": 454,
+      "height": 512
+    },
+    "buildings/building_elf_trainer.webp": {
+      "file": "buildings/building_elf_trainer.webp",
+      "width": 434,
+      "height": 440
+    },
+    "buildings/building_goblin_alchemist.webp": {
+      "file": "buildings/building_goblin_alchemist.webp",
+      "width": 460,
+      "height": 440
+    },
+    "buildings/building_goblin_blackmarket.webp": {
+      "file": "buildings/building_goblin_blackmarket.webp",
+      "width": 441,
+      "height": 440
+    },
+    "buildings/building_goblin_board.webp": {
+      "file": "buildings/building_goblin_board.webp",
+      "width": 417,
+      "height": 440
+    },
+    "buildings/building_goblin_enchanter.webp": {
+      "file": "buildings/building_goblin_enchanter.webp",
+      "width": 395,
+      "height": 440
+    },
+    "buildings/building_goblin_forge.webp": {
+      "file": "buildings/building_goblin_forge.webp",
+      "width": 430,
+      "height": 440
+    },
+    "buildings/building_goblin_market.webp": {
+      "file": "buildings/building_goblin_market.webp",
+      "width": 458,
+      "height": 440
+    },
+    "buildings/building_goblin_quartermaster.webp": {
+      "file": "buildings/building_goblin_quartermaster.webp",
+      "width": 442,
+      "height": 440
+    },
+    "buildings/building_goblin_stable.webp": {
+      "file": "buildings/building_goblin_stable.webp",
+      "width": 470,
+      "height": 440
+    },
+    "buildings/building_goblin_tavern.webp": {
+      "file": "buildings/building_goblin_tavern.webp",
+      "width": 434,
+      "height": 440
+    },
+    "buildings/building_goblin_temple.webp": {
+      "file": "buildings/building_goblin_temple.webp",
+      "width": 453,
+      "height": 512
+    },
+    "buildings/building_goblin_trainer.webp": {
+      "file": "buildings/building_goblin_trainer.webp",
+      "width": 446,
+      "height": 440
+    },
+    "buildings/building_human_alchemist.webp": {
+      "file": "buildings/building_human_alchemist.webp",
+      "width": 432,
+      "height": 440
+    },
+    "buildings/building_human_blackmarket.webp": {
+      "file": "buildings/building_human_blackmarket.webp",
+      "width": 502,
+      "height": 440
+    },
+    "buildings/building_human_board.webp": {
+      "file": "buildings/building_human_board.webp",
+      "width": 444,
+      "height": 440
+    },
+    "buildings/building_human_enchanter.webp": {
+      "file": "buildings/building_human_enchanter.webp",
+      "width": 211,
+      "height": 440
+    },
+    "buildings/building_human_forge.webp": {
+      "file": "buildings/building_human_forge.webp",
+      "width": 486,
+      "height": 440
+    },
+    "buildings/building_human_market.webp": {
+      "file": "buildings/building_human_market.webp",
+      "width": 447,
+      "height": 440
+    },
+    "buildings/building_human_quartermaster.webp": {
+      "file": "buildings/building_human_quartermaster.webp",
+      "width": 463,
+      "height": 440
+    },
+    "buildings/building_human_stable.webp": {
+      "file": "buildings/building_human_stable.webp",
+      "width": 476,
+      "height": 440
+    },
+    "buildings/building_human_tavern.webp": {
+      "file": "buildings/building_human_tavern.webp",
+      "width": 426,
+      "height": 440
+    },
+    "buildings/building_human_temple.webp": {
+      "file": "buildings/building_human_temple.webp",
+      "width": 402,
+      "height": 512
+    },
+    "buildings/building_human_trainer.webp": {
+      "file": "buildings/building_human_trainer.webp",
+      "width": 429,
+      "height": 440
+    },
+    "buildings/building_orc_alchemist.webp": {
+      "file": "buildings/building_orc_alchemist.webp",
+      "width": 420,
+      "height": 440
+    },
+    "buildings/building_orc_blackmarket.webp": {
+      "file": "buildings/building_orc_blackmarket.webp",
+      "width": 480,
+      "height": 440
+    },
+    "buildings/building_orc_board.webp": {
+      "file": "buildings/building_orc_board.webp",
+      "width": 429,
+      "height": 440
+    },
+    "buildings/building_orc_cleft.webp": {
+      "file": "buildings/building_orc_cleft.webp",
+      "width": 396,
+      "height": 440
+    },
+    "buildings/building_orc_forge.webp": {
+      "file": "buildings/building_orc_forge.webp",
+      "width": 455,
+      "height": 440
+    },
+    "buildings/building_orc_grommash.webp": {
+      "file": "buildings/building_orc_grommash.webp",
+      "width": 541,
+      "height": 512
+    },
+    "buildings/building_orc_market.webp": {
+      "file": "buildings/building_orc_market.webp",
+      "width": 450,
+      "height": 440
+    },
+    "buildings/building_orc_quartermaster.webp": {
+      "file": "buildings/building_orc_quartermaster.webp",
+      "width": 480,
+      "height": 440
+    },
+    "buildings/building_orc_stable.webp": {
+      "file": "buildings/building_orc_stable.webp",
+      "width": 471,
+      "height": 440
+    },
+    "buildings/building_orc_tavern.webp": {
+      "file": "buildings/building_orc_tavern.webp",
+      "width": 475,
+      "height": 440
+    },
+    "buildings/building_orc_temple.webp": {
+      "file": "buildings/building_orc_temple.webp",
+      "width": 525,
+      "height": 512
+    },
+    "buildings/building_orc_trainer.webp": {
+      "file": "buildings/building_orc_trainer.webp",
+      "width": 437,
+      "height": 440
+    },
+    "buildings/building_tauren_alchemist.webp": {
+      "file": "buildings/building_tauren_alchemist.webp",
+      "width": 482,
+      "height": 440
+    },
+    "buildings/building_tauren_board.webp": {
+      "file": "buildings/building_tauren_board.webp",
+      "width": 360,
+      "height": 440
+    },
+    "buildings/building_tauren_elder_tent.webp": {
+      "file": "buildings/building_tauren_elder_tent.webp",
+      "width": 440,
+      "height": 440
+    },
+    "buildings/building_tauren_enchanter.webp": {
+      "file": "buildings/building_tauren_enchanter.webp",
+      "width": 444,
+      "height": 440
+    },
+    "buildings/building_tauren_forge.webp": {
+      "file": "buildings/building_tauren_forge.webp",
+      "width": 500,
+      "height": 440
+    },
+    "buildings/building_tauren_market.webp": {
+      "file": "buildings/building_tauren_market.webp",
+      "width": 471,
+      "height": 440
+    },
+    "buildings/building_tauren_quartermaster.webp": {
+      "file": "buildings/building_tauren_quartermaster.webp",
+      "width": 430,
+      "height": 440
+    },
+    "buildings/building_tauren_spirit_rise.webp": {
+      "file": "buildings/building_tauren_spirit_rise.webp",
+      "width": 500,
+      "height": 512
+    },
+    "buildings/building_tauren_stable.webp": {
+      "file": "buildings/building_tauren_stable.webp",
+      "width": 479,
+      "height": 440
+    },
+    "buildings/building_tauren_tavern.webp": {
+      "file": "buildings/building_tauren_tavern.webp",
+      "width": 454,
+      "height": 440
+    },
+    "buildings/building_tauren_temple.webp": {
+      "file": "buildings/building_tauren_temple.webp",
+      "width": 579,
+      "height": 512
+    },
+    "buildings/building_tauren_trainer.webp": {
+      "file": "buildings/building_tauren_trainer.webp",
+      "width": 496,
+      "height": 440
+    },
+    "buildings/building_undercity_alchemist.webp": {
+      "file": "buildings/building_undercity_alchemist.webp",
+      "width": 429,
+      "height": 440
+    },
+    "buildings/building_undercity_blackmarket.webp": {
+      "file": "buildings/building_undercity_blackmarket.webp",
+      "width": 471,
+      "height": 440
+    },
+    "buildings/building_undercity_board.webp": {
+      "file": "buildings/building_undercity_board.webp",
+      "width": 435,
+      "height": 440
+    },
+    "buildings/building_undercity_enchanter.webp": {
+      "file": "buildings/building_undercity_enchanter.webp",
+      "width": 353,
+      "height": 440
+    },
+    "buildings/building_undercity_forge.webp": {
+      "file": "buildings/building_undercity_forge.webp",
+      "width": 466,
+      "height": 440
+    },
+    "buildings/building_undercity_market.webp": {
+      "file": "buildings/building_undercity_market.webp",
+      "width": 460,
+      "height": 440
+    },
+    "buildings/building_undercity_quartermaster.webp": {
+      "file": "buildings/building_undercity_quartermaster.webp",
+      "width": 448,
+      "height": 440
+    },
+    "buildings/building_undercity_stable.webp": {
+      "file": "buildings/building_undercity_stable.webp",
+      "width": 532,
+      "height": 440
+    },
+    "buildings/building_undercity_tavern.webp": {
+      "file": "buildings/building_undercity_tavern.webp",
+      "width": 463,
+      "height": 440
+    },
+    "buildings/building_undercity_temple.webp": {
+      "file": "buildings/building_undercity_temple.webp",
+      "width": 542,
+      "height": 512
+    },
+    "buildings/building_undercity_trainer.webp": {
+      "file": "buildings/building_undercity_trainer.webp",
+      "width": 442,
+      "height": 440
+    },
+    "buildings/landmark_bootybay_goblin.webp": {
+      "file": "buildings/landmark_bootybay_goblin.webp",
+      "width": 382,
+      "height": 440
+    },
+    "buildings/landmark_darnassus_moonwell.webp": {
+      "file": "buildings/landmark_darnassus_moonwell.webp",
+      "width": 417,
+      "height": 440
+    },
+    "buildings/landmark_darnassus_sentinel.webp": {
+      "file": "buildings/landmark_darnassus_sentinel.webp",
+      "width": 278,
+      "height": 440
+    },
+    "buildings/landmark_gadgetzan_watertower.webp": {
+      "file": "buildings/landmark_gadgetzan_watertower.webp",
+      "width": 226,
+      "height": 440
+    },
+    "buildings/landmark_ironforge_brazier.webp": {
+      "file": "buildings/landmark_ironforge_brazier.webp",
+      "width": 384,
+      "height": 440
+    },
+    "buildings/landmark_ironforge_rails.webp": {
+      "file": "buildings/landmark_ironforge_rails.webp",
+      "width": 460,
+      "height": 440
+    },
+    "buildings/landmark_orgrimmar_brazier.webp": {
+      "file": "buildings/landmark_orgrimmar_brazier.webp",
+      "width": 399,
+      "height": 440
+    },
+    "buildings/landmark_orgrimmar_zeptower.webp": {
+      "file": "buildings/landmark_orgrimmar_zeptower.webp",
+      "width": 338,
+      "height": 440
+    },
+    "buildings/landmark_stormwind_bridge.webp": {
+      "file": "buildings/landmark_stormwind_bridge.webp",
+      "width": 550,
+      "height": 440
+    },
+    "buildings/landmark_stormwind_lion.webp": {
+      "file": "buildings/landmark_stormwind_lion.webp",
+      "width": 305,
+      "height": 440
+    },
+    "buildings/landmark_tauren_totem.webp": {
+      "file": "buildings/landmark_tauren_totem.webp",
+      "width": 362,
+      "height": 440
+    },
+    "buildings/landmark_undercity_slimebridge.webp": {
+      "file": "buildings/landmark_undercity_slimebridge.webp",
+      "width": 449,
+      "height": 440
+    },
+    "creatures/abomination.webp": {
+      "file": "creatures/abomination.webp",
+      "width": 459,
+      "height": 440
+    },
+    "creatures/agathelos.webp": {
+      "file": "creatures/agathelos.webp",
+      "width": 523,
+      "height": 440
+    },
+    "creatures/aggem.webp": {
+      "file": "creatures/aggem.webp",
+      "width": 422,
+      "height": 440
+    },
+    "creatures/akumai.webp": {
+      "file": "creatures/akumai.webp",
+      "width": 462,
+      "height": 480
+    },
+    "creatures/alzzin.webp": {
+      "file": "creatures/alzzin.webp",
+      "width": 401,
+      "height": 440
+    },
+    "creatures/amnennar.webp": {
+      "file": "creatures/amnennar.webp",
+      "width": 456,
+      "height": 480
+    },
+    "creatures/anacondra.webp": {
+      "file": "creatures/anacondra.webp",
+      "width": 416,
+      "height": 480
+    },
+    "creatures/anastari.webp": {
+      "file": "creatures/anastari.webp",
+      "width": 384,
+      "height": 440
+    },
+    "creatures/angerforge.webp": {
+      "file": "creatures/angerforge.webp",
+      "width": 451,
+      "height": 440
+    },
+    "creatures/anubrekhan.webp": {
+      "file": "creatures/anubrekhan.webp",
+      "width": 551,
+      "height": 480
+    },
+    "creatures/anvilrageReservist.webp": {
+      "file": "creatures/anvilrageReservist.webp",
+      "width": 437,
+      "height": 440
+    },
+    "creatures/aquanis.webp": {
+      "file": "creatures/aquanis.webp",
+      "width": 401,
+      "height": 440
+    },
+    "creatures/archaedas.webp": {
+      "file": "creatures/archaedas.webp",
+      "width": 475,
+      "height": 480
+    },
+    "creatures/arlokk.webp": {
+      "file": "creatures/arlokk.webp",
+      "width": 408,
+      "height": 440
+    },
+    "creatures/arugal.webp": {
+      "file": "creatures/arugal.webp",
+      "width": 468,
+      "height": 480
+    },
+    "creatures/atalalarion.webp": {
+      "file": "creatures/atalalarion.webp",
+      "width": 481,
+      "height": 440
+    },
+    "creatures/ayamiss.webp": {
+      "file": "creatures/ayamiss.webp",
+      "width": 405,
+      "height": 440
+    },
+    "creatures/baelgar.webp": {
+      "file": "creatures/baelgar.webp",
+      "width": 428,
+      "height": 440
+    },
+    "creatures/baelog.webp": {
+      "file": "creatures/baelog.webp",
+      "width": 466,
+      "height": 440
+    },
+    "creatures/bandit.webp": {
+      "file": "creatures/bandit.webp",
+      "width": 394,
+      "height": 440
+    },
+    "creatures/banshee.webp": {
+      "file": "creatures/banshee.webp",
+      "width": 338,
+      "height": 440
+    },
+    "creatures/barrowSpirit.webp": {
+      "file": "creatures/barrowSpirit.webp",
+      "width": 421,
+      "height": 440
+    },
+    "creatures/barthilas.webp": {
+      "file": "creatures/barthilas.webp",
+      "width": 381,
+      "height": 440
+    },
+    "creatures/basilisk.webp": {
+      "file": "creatures/basilisk.webp",
+      "width": 495,
+      "height": 440
+    },
+    "creatures/bat.webp": {
+      "file": "creatures/bat.webp",
+      "width": 481,
+      "height": 440
+    },
+    "creatures/bazil.webp": {
+      "file": "creatures/bazil.webp",
+      "width": 482,
+      "height": 440
+    },
+    "creatures/bear.webp": {
+      "file": "creatures/bear.webp",
+      "width": 427,
+      "height": 440
+    },
+    "creatures/blackrock.webp": {
+      "file": "creatures/blackrock.webp",
+      "width": 426,
+      "height": 440
+    },
+    "creatures/blackwingGuard.webp": {
+      "file": "creatures/blackwingGuard.webp",
+      "width": 414,
+      "height": 440
+    },
+    "creatures/blackwingMage.webp": {
+      "file": "creatures/blackwingMage.webp",
+      "width": 446,
+      "height": 440
+    },
+    "creatures/boar.webp": {
+      "file": "creatures/boar.webp",
+      "width": 516,
+      "height": 440
+    },
+    "creatures/bombBot.webp": {
+      "file": "creatures/bombBot.webp",
+      "width": 335,
+      "height": 440
+    },
+    "creatures/boneConstruct.webp": {
+      "file": "creatures/boneConstruct.webp",
+      "width": 434,
+      "height": 440
+    },
+    "creatures/boneGolem.webp": {
+      "file": "creatures/boneGolem.webp",
+      "width": 436,
+      "height": 440
+    },
+    "creatures/buru.webp": {
+      "file": "creatures/buru.webp",
+      "width": 513,
+      "height": 440
+    },
+    "creatures/celebras.webp": {
+      "file": "creatures/celebras.webp",
+      "width": 474,
+      "height": 480
+    },
+    "creatures/centaur.webp": {
+      "file": "creatures/centaur.webp",
+      "width": 475,
+      "height": 440
+    },
+    "creatures/charlga.webp": {
+      "file": "creatures/charlga.webp",
+      "width": 386,
+      "height": 480
+    },
+    "creatures/chief_ukorz.webp": {
+      "file": "creatures/chief_ukorz.webp",
+      "width": 438,
+      "height": 440
+    },
+    "creatures/chorush.webp": {
+      "file": "creatures/chorush.webp",
+      "width": 453,
+      "height": 440
+    },
+    "creatures/chromaggus.webp": {
+      "file": "creatures/chromaggus.webp",
+      "width": 552,
+      "height": 480
+    },
+    "creatures/cobrahn.webp": {
+      "file": "creatures/cobrahn.webp",
+      "width": 405,
+      "height": 440
+    },
+    "creatures/coreRager.webp": {
+      "file": "creatures/coreRager.webp",
+      "width": 467,
+      "height": 440
+    },
+    "creatures/crocolisk.webp": {
+      "file": "creatures/crocolisk.webp",
+      "width": 543,
+      "height": 440
+    },
+    "creatures/cryptGuard.webp": {
+      "file": "creatures/cryptGuard.webp",
+      "width": 455,
+      "height": 440
+    },
+    "creatures/cthun.webp": {
+      "file": "creatures/cthun.webp",
+      "width": 484,
+      "height": 480
+    },
+    "creatures/darkiron.webp": {
+      "file": "creatures/darkiron.webp",
+      "width": 450,
+      "height": 440
+    },
+    "creatures/defiasGuard.webp": {
+      "file": "creatures/defiasGuard.webp",
+      "width": 387,
+      "height": 440
+    },
+    "creatures/demon.webp": {
+      "file": "creatures/demon.webp",
+      "width": 383,
+      "height": 440
+    },
+    "creatures/dextren.webp": {
+      "file": "creatures/dextren.webp",
+      "width": 420,
+      "height": 440
+    },
+    "creatures/domo.webp": {
+      "file": "creatures/domo.webp",
+      "width": 382,
+      "height": 440
+    },
+    "creatures/dragonkin.webp": {
+      "file": "creatures/dragonkin.webp",
+      "width": 455,
+      "height": 440
+    },
+    "creatures/dragonmaw.webp": {
+      "file": "creatures/dragonmaw.webp",
+      "width": 446,
+      "height": 440
+    },
+    "creatures/drakkisath.webp": {
+      "file": "creatures/drakkisath.webp",
+      "width": 486,
+      "height": 480
+    },
+    "creatures/earth_elemental.webp": {
+      "file": "creatures/earth_elemental.webp",
+      "width": 422,
+      "height": 440
+    },
+    "creatures/ebonroc.webp": {
+      "file": "creatures/ebonroc.webp",
+      "width": 439,
+      "height": 440
+    },
+    "creatures/elemental_fire_small.webp": {
+      "file": "creatures/elemental_fire_small.webp",
+      "width": 393,
+      "height": 440
+    },
+    "creatures/emberseer.webp": {
+      "file": "creatures/emberseer.webp",
+      "width": 415,
+      "height": 440
+    },
+    "creatures/eranikus.webp": {
+      "file": "creatures/eranikus.webp",
+      "width": 501,
+      "height": 480
+    },
+    "creatures/eyeOfImmol.webp": {
+      "file": "creatures/eyeOfImmol.webp",
+      "width": 439,
+      "height": 440
+    },
+    "creatures/eyeTentacle.webp": {
+      "file": "creatures/eyeTentacle.webp",
+      "width": 384,
+      "height": 440
+    },
+    "creatures/faerlina.webp": {
+      "file": "creatures/faerlina.webp",
+      "width": 410,
+      "height": 440
+    },
+    "creatures/faerlinaWorshipper.webp": {
+      "file": "creatures/faerlinaWorshipper.webp",
+      "width": 384,
+      "height": 440
+    },
+    "creatures/fairbanks.webp": {
+      "file": "creatures/fairbanks.webp",
+      "width": 412,
+      "height": 440
+    },
+    "creatures/fallout.webp": {
+      "file": "creatures/fallout.webp",
+      "width": 478,
+      "height": 440
+    },
+    "creatures/fankriss.webp": {
+      "file": "creatures/fankriss.webp",
+      "width": 471,
+      "height": 440
+    },
+    "creatures/fankrissSpawn.webp": {
+      "file": "creatures/fankrissSpawn.webp",
+      "width": 503,
+      "height": 440
+    },
+    "creatures/fenrus.webp": {
+      "file": "creatures/fenrus.webp",
+      "width": 523,
+      "height": 440
+    },
+    "creatures/feugen.webp": {
+      "file": "creatures/feugen.webp",
+      "width": 390,
+      "height": 440
+    },
+    "creatures/firemaw.webp": {
+      "file": "creatures/firemaw.webp",
+      "width": 476,
+      "height": 440
+    },
+    "creatures/firesworn.webp": {
+      "file": "creatures/firesworn.webp",
+      "width": 417,
+      "height": 440
+    },
+    "creatures/flameSpirit.webp": {
+      "file": "creatures/flameSpirit.webp",
+      "width": 412,
+      "height": 440
+    },
+    "creatures/flamegor.webp": {
+      "file": "creatures/flamegor.webp",
+      "width": 499,
+      "height": 440
+    },
+    "creatures/flamelash.webp": {
+      "file": "creatures/flamelash.webp",
+      "width": 437,
+      "height": 440
+    },
+    "creatures/flamewakerAdd.webp": {
+      "file": "creatures/flamewakerAdd.webp",
+      "width": 524,
+      "height": 440
+    },
+    "creatures/flamewakerElite.webp": {
+      "file": "creatures/flamewakerElite.webp",
+      "width": 373,
+      "height": 440
+    },
+    "creatures/flamewakerHealer.webp": {
+      "file": "creatures/flamewakerHealer.webp",
+      "width": 410,
+      "height": 440
+    },
+    "creatures/flamewakerPriest.webp": {
+      "file": "creatures/flamewakerPriest.webp",
+      "width": 432,
+      "height": 440
+    },
+    "creatures/frostmane.webp": {
+      "file": "creatures/frostmane.webp",
+      "width": 457,
+      "height": 440
+    },
+    "creatures/furbolg.webp": {
+      "file": "creatures/furbolg.webp",
+      "width": 453,
+      "height": 440
+    },
+    "creatures/gahzrilla.webp": {
+      "file": "creatures/gahzrilla.webp",
+      "width": 535,
+      "height": 480
+    },
+    "creatures/galgann.webp": {
+      "file": "creatures/galgann.webp",
+      "width": 457,
+      "height": 440
+    },
+    "creatures/gandling.webp": {
+      "file": "creatures/gandling.webp",
+      "width": 436,
+      "height": 480
+    },
+    "creatures/gargoyle.webp": {
+      "file": "creatures/gargoyle.webp",
+      "width": 419,
+      "height": 440
+    },
+    "creatures/garr.webp": {
+      "file": "creatures/garr.webp",
+      "width": 413,
+      "height": 440
+    },
+    "creatures/geddon.webp": {
+      "file": "creatures/geddon.webp",
+      "width": 402,
+      "height": 440
+    },
+    "creatures/gehennas.webp": {
+      "file": "creatures/gehennas.webp",
+      "width": 455,
+      "height": 440
+    },
+    "creatures/gelihast.webp": {
+      "file": "creatures/gelihast.webp",
+      "width": 389,
+      "height": 440
+    },
+    "creatures/ghamoora.webp": {
+      "file": "creatures/ghamoora.webp",
+      "width": 473,
+      "height": 440
+    },
+    "creatures/ghost.webp": {
+      "file": "creatures/ghost.webp",
+      "width": 350,
+      "height": 440
+    },
+    "creatures/ghoul.webp": {
+      "file": "creatures/ghoul.webp",
+      "width": 494,
+      "height": 440
+    },
+    "creatures/giantTentacle.webp": {
+      "file": "creatures/giantTentacle.webp",
+      "width": 414,
+      "height": 440
+    },
+    "creatures/gilnid.webp": {
+      "file": "creatures/gilnid.webp",
+      "width": 458,
+      "height": 440
+    },
+    "creatures/gluth.webp": {
+      "file": "creatures/gluth.webp",
+      "width": 455,
+      "height": 440
+    },
+    "creatures/glutton.webp": {
+      "file": "creatures/glutton.webp",
+      "width": 446,
+      "height": 440
+    },
+    "creatures/gnoll.webp": {
+      "file": "creatures/gnoll.webp",
+      "width": 422,
+      "height": 440
+    },
+    "creatures/golem_lord.webp": {
+      "file": "creatures/golem_lord.webp",
+      "width": 466,
+      "height": 440
+    },
+    "creatures/golemagg.webp": {
+      "file": "creatures/golemagg.webp",
+      "width": 453,
+      "height": 480
+    },
+    "creatures/gordok.webp": {
+      "file": "creatures/gordok.webp",
+      "width": 441,
+      "height": 440
+    },
+    "creatures/gorilla.webp": {
+      "file": "creatures/gorilla.webp",
+      "width": 418,
+      "height": 440
+    },
+    "creatures/greenskin.webp": {
+      "file": "creatures/greenskin.webp",
+      "width": 434,
+      "height": 440
+    },
+    "creatures/grobbulus.webp": {
+      "file": "creatures/grobbulus.webp",
+      "width": 417,
+      "height": 440
+    },
+    "creatures/grubbis.webp": {
+      "file": "creatures/grubbis.webp",
+      "width": 468,
+      "height": 440
+    },
+    "creatures/guardianIcecrown.webp": {
+      "file": "creatures/guardianIcecrown.webp",
+      "width": 475,
+      "height": 440
+    },
+    "creatures/gyth.webp": {
+      "file": "creatures/gyth.webp",
+      "width": 468,
+      "height": 440
+    },
+    "creatures/hakkar.webp": {
+      "file": "creatures/hakkar.webp",
+      "width": 487,
+      "height": 480
+    },
+    "creatures/hakkarAvatar.webp": {
+      "file": "creatures/hakkarAvatar.webp",
+      "width": 459,
+      "height": 440
+    },
+    "creatures/hamhock.webp": {
+      "file": "creatures/hamhock.webp",
+      "width": 404,
+      "height": 440
+    },
+    "creatures/harpy.webp": {
+      "file": "creatures/harpy.webp",
+      "width": 446,
+      "height": 440
+    },
+    "creatures/harvest.webp": {
+      "file": "creatures/harvest.webp",
+      "width": 469,
+      "height": 440
+    },
+    "creatures/heigan.webp": {
+      "file": "creatures/heigan.webp",
+      "width": 435,
+      "height": 440
+    },
+    "creatures/herod.webp": {
+      "file": "creatures/herod.webp",
+      "width": 448,
+      "height": 480
+    },
+    "creatures/hound.webp": {
+      "file": "creatures/hound.webp",
+      "width": 468,
+      "height": 440
+    },
+    "creatures/huhuran.webp": {
+      "file": "creatures/huhuran.webp",
+      "width": 427,
+      "height": 440
+    },
+    "creatures/hydrospawn.webp": {
+      "file": "creatures/hydrospawn.webp",
+      "width": 424,
+      "height": 440
+    },
+    "creatures/immolthar.webp": {
+      "file": "creatures/immolthar.webp",
+      "width": 481,
+      "height": 440
+    },
+    "creatures/incendius.webp": {
+      "file": "creatures/incendius.webp",
+      "width": 417,
+      "height": 440
+    },
+    "creatures/ironaya.webp": {
+      "file": "creatures/ironaya.webp",
+      "width": 411,
+      "height": 440
+    },
+    "creatures/jammalan.webp": {
+      "file": "creatures/jammalan.webp",
+      "width": 383,
+      "height": 440
+    },
+    "creatures/jandice.webp": {
+      "file": "creatures/jandice.webp",
+      "width": 454,
+      "height": 440
+    },
+    "creatures/jargba.webp": {
+      "file": "creatures/jargba.webp",
+      "width": 445,
+      "height": 440
+    },
+    "creatures/jeklik.webp": {
+      "file": "creatures/jeklik.webp",
+      "width": 429,
+      "height": 440
+    },
+    "creatures/jindo.webp": {
+      "file": "creatures/jindo.webp",
+      "width": 398,
+      "height": 440
+    },
+    "creatures/kam.webp": {
+      "file": "creatures/kam.webp",
+      "width": 492,
+      "height": 440
+    },
+    "creatures/kelris.webp": {
+      "file": "creatures/kelris.webp",
+      "width": 419,
+      "height": 440
+    },
+    "creatures/kelthuzad.webp": {
+      "file": "creatures/kelthuzad.webp",
+      "width": 354,
+      "height": 480
+    },
+    "creatures/kirtonos.webp": {
+      "file": "creatures/kirtonos.webp",
+      "width": 443,
+      "height": 440
+    },
+    "creatures/kobold.webp": {
+      "file": "creatures/kobold.webp",
+      "width": 409,
+      "height": 440
+    },
+    "creatures/kromcrush.webp": {
+      "file": "creatures/kromcrush.webp",
+      "width": 426,
+      "height": 440
+    },
+    "creatures/kurinnaxx.webp": {
+      "file": "creatures/kurinnaxx.webp",
+      "width": 525,
+      "height": 480
+    },
+    "creatures/landslide.webp": {
+      "file": "creatures/landslide.webp",
+      "width": 437,
+      "height": 440
+    },
+    "creatures/larva.webp": {
+      "file": "creatures/larva.webp",
+      "width": 411,
+      "height": 440
+    },
+    "creatures/lashlayer.webp": {
+      "file": "creatures/lashlayer.webp",
+      "width": 474,
+      "height": 440
+    },
+    "creatures/loatheb.webp": {
+      "file": "creatures/loatheb.webp",
+      "width": 448,
+      "height": 440
+    },
+    "creatures/loksey.webp": {
+      "file": "creatures/loksey.webp",
+      "width": 458,
+      "height": 440
+    },
+    "creatures/lostDwarf.webp": {
+      "file": "creatures/lostDwarf.webp",
+      "width": 454,
+      "height": 440
+    },
+    "creatures/lucifron.webp": {
+      "file": "creatures/lucifron.webp",
+      "width": 418,
+      "height": 440
+    },
+    "creatures/maexxna.webp": {
+      "file": "creatures/maexxna.webp",
+      "width": 482,
+      "height": 440
+    },
+    "creatures/maexxnaSpiderling.webp": {
+      "file": "creatures/maexxnaSpiderling.webp",
+      "width": 566,
+      "height": 440
+    },
+    "creatures/magmaSpawn.webp": {
+      "file": "creatures/magmaSpawn.webp",
+      "width": 445,
+      "height": 440
+    },
+    "creatures/magmadar.webp": {
+      "file": "creatures/magmadar.webp",
+      "width": 536,
+      "height": 480
+    },
+    "creatures/maleki.webp": {
+      "file": "creatures/maleki.webp",
+      "width": 402,
+      "height": 440
+    },
+    "creatures/malicia.webp": {
+      "file": "creatures/malicia.webp",
+      "width": 403,
+      "height": 440
+    },
+    "creatures/manaFiend.webp": {
+      "file": "creatures/manaFiend.webp",
+      "width": 459,
+      "height": 440
+    },
+    "creatures/marli.webp": {
+      "file": "creatures/marli.webp",
+      "width": 430,
+      "height": 440
+    },
+    "creatures/merc_apothecary.webp": {
+      "file": "creatures/merc_apothecary.webp",
+      "width": 349,
+      "height": 440
+    },
+    "creatures/merc_grunt.webp": {
+      "file": "creatures/merc_grunt.webp",
+      "width": 408,
+      "height": 440
+    },
+    "creatures/merc_guard.webp": {
+      "file": "creatures/merc_guard.webp",
+      "width": 394,
+      "height": 440
+    },
+    "creatures/merc_headhunter.webp": {
+      "file": "creatures/merc_headhunter.webp",
+      "width": 337,
+      "height": 440
+    },
+    "creatures/merc_ogre.webp": {
+      "file": "creatures/merc_ogre.webp",
+      "width": 421,
+      "height": 440
+    },
+    "creatures/merc_priestess.webp": {
+      "file": "creatures/merc_priestess.webp",
+      "width": 334,
+      "height": 440
+    },
+    "creatures/merc_rifleman.webp": {
+      "file": "creatures/merc_rifleman.webp",
+      "width": 444,
+      "height": 440
+    },
+    "creatures/merc_tauren.webp": {
+      "file": "creatures/merc_tauren.webp",
+      "width": 418,
+      "height": 440
+    },
+    "creatures/merc_wildhammer.webp": {
+      "file": "creatures/merc_wildhammer.webp",
+      "width": 417,
+      "height": 440
+    },
+    "creatures/moam.webp": {
+      "file": "creatures/moam.webp",
+      "width": 422,
+      "height": 440
+    },
+    "creatures/mograine.webp": {
+      "file": "creatures/mograine.webp",
+      "width": 474,
+      "height": 480
+    },
+    "creatures/moira.webp": {
+      "file": "creatures/moira.webp",
+      "width": 389,
+      "height": 440
+    },
+    "creatures/mordresh.webp": {
+      "file": "creatures/mordresh.webp",
+      "width": 413,
+      "height": 440
+    },
+    "creatures/morphaz.webp": {
+      "file": "creatures/morphaz.webp",
+      "width": 436,
+      "height": 440
+    },
+    "creatures/mrsmite.webp": {
+      "file": "creatures/mrsmite.webp",
+      "width": 427,
+      "height": 480
+    },
+    "creatures/murloc.webp": {
+      "file": "creatures/murloc.webp",
+      "width": 398,
+      "height": 440
+    },
+    "creatures/mutanus.webp": {
+      "file": "creatures/mutanus.webp",
+      "width": 440,
+      "height": 480
+    },
+    "creatures/naga.webp": {
+      "file": "creatures/naga.webp",
+      "width": 390,
+      "height": 440
+    },
+    "creatures/nefarian.webp": {
+      "file": "creatures/nefarian.webp",
+      "width": 522,
+      "height": 480
+    },
+    "creatures/nekrum.webp": {
+      "file": "creatures/nekrum.webp",
+      "width": 424,
+      "height": 440
+    },
+    "creatures/nerubenkan.webp": {
+      "file": "creatures/nerubenkan.webp",
+      "width": 462,
+      "height": 440
+    },
+    "creatures/nightmareWhelp.webp": {
+      "file": "creatures/nightmareWhelp.webp",
+      "width": 489,
+      "height": 440
+    },
+    "creatures/nightsaber.webp": {
+      "file": "creatures/nightsaber.webp",
+      "width": 500,
+      "height": 440
+    },
+    "creatures/noth.webp": {
+      "file": "creatures/noth.webp",
+      "width": 430,
+      "height": 440
+    },
+    "creatures/noxxion.webp": {
+      "file": "creatures/noxxion.webp",
+      "width": 468,
+      "height": 440
+    },
+    "creatures/odo.webp": {
+      "file": "creatures/odo.webp",
+      "width": 380,
+      "height": 440
+    },
+    "creatures/ogom.webp": {
+      "file": "creatures/ogom.webp",
+      "width": 409,
+      "height": 440
+    },
+    "creatures/ogre.webp": {
+      "file": "creatures/ogre.webp",
+      "width": 442,
+      "height": 440
+    },
+    "creatures/omokk.webp": {
+      "file": "creatures/omokk.webp",
+      "width": 465,
+      "height": 440
+    },
+    "creatures/onyWarder.webp": {
+      "file": "creatures/onyWarder.webp",
+      "width": 457,
+      "height": 440
+    },
+    "creatures/onyxia.webp": {
+      "file": "creatures/onyxia.webp",
+      "width": 511,
+      "height": 480
+    },
+    "creatures/ossirian.webp": {
+      "file": "creatures/ossirian.webp",
+      "width": 426,
+      "height": 440
+    },
+    "creatures/panther.webp": {
+      "file": "creatures/panther.webp",
+      "width": 560,
+      "height": 440
+    },
+    "creatures/patchwerk.webp": {
+      "file": "creatures/patchwerk.webp",
+      "width": 511,
+      "height": 480
+    },
+    "creatures/pirate.webp": {
+      "file": "creatures/pirate.webp",
+      "width": 382,
+      "height": 440
+    },
+    "creatures/plagueWarrior.webp": {
+      "file": "creatures/plagueWarrior.webp",
+      "width": 449,
+      "height": 434
+    },
+    "creatures/prisoner.webp": {
+      "file": "creatures/prisoner.webp",
+      "width": 376,
+      "height": 440
+    },
+    "creatures/pummeler.webp": {
+      "file": "creatures/pummeler.webp",
+      "width": 445,
+      "height": 440
+    },
+    "creatures/pythas.webp": {
+      "file": "creatures/pythas.webp",
+      "width": 415,
+      "height": 440
+    },
+    "creatures/qirajiWarrior.webp": {
+      "file": "creatures/qirajiWarrior.webp",
+      "width": 448,
+      "height": 440
+    },
+    "creatures/quilboar.webp": {
+      "file": "creatures/quilboar.webp",
+      "width": 404,
+      "height": 440
+    },
+    "creatures/radSlime.webp": {
+      "file": "creatures/radSlime.webp",
+      "width": 466,
+      "height": 440
+    },
+    "creatures/ragnaros.webp": {
+      "file": "creatures/ragnaros.webp",
+      "width": 448,
+      "height": 480
+    },
+    "creatures/rajaxx.webp": {
+      "file": "creatures/rajaxx.webp",
+      "width": 406,
+      "height": 440
+    },
+    "creatures/ramstein.webp": {
+      "file": "creatures/ramstein.webp",
+      "width": 475,
+      "height": 440
+    },
+    "creatures/ramtusk.webp": {
+      "file": "creatures/ramtusk.webp",
+      "width": 442,
+      "height": 440
+    },
+    "creatures/raptor.webp": {
+      "file": "creatures/raptor.webp",
+      "width": 428,
+      "height": 440
+    },
+    "creatures/ras_frostwhisper.webp": {
+      "file": "creatures/ras_frostwhisper.webp",
+      "width": 444,
+      "height": 480
+    },
+    "creatures/rattlegore.webp": {
+      "file": "creatures/rattlegore.webp",
+      "width": 440,
+      "height": 440
+    },
+    "creatures/razorgore.webp": {
+      "file": "creatures/razorgore.webp",
+      "width": 440,
+      "height": 440
+    },
+    "creatures/razorlash.webp": {
+      "file": "creatures/razorlash.webp",
+      "width": 461,
+      "height": 440
+    },
+    "creatures/rend.webp": {
+      "file": "creatures/rend.webp",
+      "width": 466,
+      "height": 480
+    },
+    "creatures/rethilgore.webp": {
+      "file": "creatures/rethilgore.webp",
+      "width": 399,
+      "height": 440
+    },
+    "creatures/revelosh.webp": {
+      "file": "creatures/revelosh.webp",
+      "width": 401,
+      "height": 440
+    },
+    "creatures/rhahkzor.webp": {
+      "file": "creatures/rhahkzor.webp",
+      "width": 487,
+      "height": 440
+    },
+    "creatures/rivendare.webp": {
+      "file": "creatures/rivendare.webp",
+      "width": 421,
+      "height": 480
+    },
+    "creatures/ruuzlu.webp": {
+      "file": "creatures/ruuzlu.webp",
+      "width": 474,
+      "height": 440
+    },
+    "creatures/sapphiron.webp": {
+      "file": "creatures/sapphiron.webp",
+      "width": 514,
+      "height": 480
+    },
+    "creatures/sarevess.webp": {
+      "file": "creatures/sarevess.webp",
+      "width": 420,
+      "height": 440
+    },
+    "creatures/sartura.webp": {
+      "file": "creatures/sartura.webp",
+      "width": 447,
+      "height": 440
+    },
+    "creatures/sarturaGuard.webp": {
+      "file": "creatures/sarturaGuard.webp",
+      "width": 458,
+      "height": 440
+    },
+    "creatures/satyr.webp": {
+      "file": "creatures/satyr.webp",
+      "width": 374,
+      "height": 440
+    },
+    "creatures/scarab.webp": {
+      "file": "creatures/scarab.webp",
+      "width": 482,
+      "height": 440
+    },
+    "creatures/scarlet.webp": {
+      "file": "creatures/scarlet.webp",
+      "width": 418,
+      "height": 440
+    },
+    "creatures/scarletTrainee.webp": {
+      "file": "creatures/scarletTrainee.webp",
+      "width": 442,
+      "height": 440
+    },
+    "creatures/scholoStudent.webp": {
+      "file": "creatures/scholoStudent.webp",
+      "width": 426,
+      "height": 440
+    },
+    "creatures/scorpid.webp": {
+      "file": "creatures/scorpid.webp",
+      "width": 459,
+      "height": 440
+    },
+    "creatures/serpent.webp": {
+      "file": "creatures/serpent.webp",
+      "width": 446,
+      "height": 440
+    },
+    "creatures/serpentis.webp": {
+      "file": "creatures/serpentis.webp",
+      "width": 379,
+      "height": 440
+    },
+    "creatures/shazzrah.webp": {
+      "file": "creatures/shazzrah.webp",
+      "width": 418,
+      "height": 440
+    },
+    "creatures/shocker.webp": {
+      "file": "creatures/shocker.webp",
+      "width": 450,
+      "height": 440
+    },
+    "creatures/silithid.webp": {
+      "file": "creatures/silithid.webp",
+      "width": 551,
+      "height": 440
+    },
+    "creatures/silverlaine.webp": {
+      "file": "creatures/silverlaine.webp",
+      "width": 405,
+      "height": 440
+    },
+    "creatures/skeleton.webp": {
+      "file": "creatures/skeleton.webp",
+      "width": 416,
+      "height": 440
+    },
+    "creatures/skeram.webp": {
+      "file": "creatures/skeram.webp",
+      "width": 452,
+      "height": 440
+    },
+    "creatures/slime.webp": {
+      "file": "creatures/slime.webp",
+      "width": 478,
+      "height": 440
+    },
+    "creatures/smolderweb.webp": {
+      "file": "creatures/smolderweb.webp",
+      "width": 507,
+      "height": 440
+    },
+    "creatures/sneed.webp": {
+      "file": "creatures/sneed.webp",
+      "width": 448,
+      "height": 480
+    },
+    "creatures/sonOfFlame.webp": {
+      "file": "creatures/sonOfFlame.webp",
+      "width": 434,
+      "height": 440
+    },
+    "creatures/spiderling.webp": {
+      "file": "creatures/spiderling.webp",
+      "width": 476,
+      "height": 440
+    },
+    "creatures/springvale.webp": {
+      "file": "creatures/springvale.webp",
+      "width": 467,
+      "height": 440
+    },
+    "creatures/stalagg.webp": {
+      "file": "creatures/stalagg.webp",
+      "width": 414,
+      "height": 440
+    },
+    "creatures/stoneGuard.webp": {
+      "file": "creatures/stoneGuard.webp",
+      "width": 539,
+      "height": 440
+    },
+    "creatures/stonekeeper.webp": {
+      "file": "creatures/stonekeeper.webp",
+      "width": 469,
+      "height": 440
+    },
+    "creatures/sulfuron.webp": {
+      "file": "creatures/sulfuron.webp",
+      "width": 464,
+      "height": 440
+    },
+    "creatures/syndicate.webp": {
+      "file": "creatures/syndicate.webp",
+      "width": 391,
+      "height": 440
+    },
+    "creatures/tallstrider.webp": {
+      "file": "creatures/tallstrider.webp",
+      "width": 386,
+      "height": 440
+    },
+    "creatures/targorr.webp": {
+      "file": "creatures/targorr.webp",
+      "width": 397,
+      "height": 440
+    },
+    "creatures/thaddius.webp": {
+      "file": "creatures/thaddius.webp",
+      "width": 406,
+      "height": 440
+    },
+    "creatures/thalnos.webp": {
+      "file": "creatures/thalnos.webp",
+      "width": 399,
+      "height": 440
+    },
+    "creatures/thaurissan.webp": {
+      "file": "creatures/thaurissan.webp",
+      "width": 523,
+      "height": 480
+    },
+    "creatures/theka.webp": {
+      "file": "creatures/theka.webp",
+      "width": 425,
+      "height": 440
+    },
+    "creatures/thekal.webp": {
+      "file": "creatures/thekal.webp",
+      "width": 439,
+      "height": 440
+    },
+    "creatures/theradras.webp": {
+      "file": "creatures/theradras.webp",
+      "width": 462,
+      "height": 480
+    },
+    "creatures/thermaplugg.webp": {
+      "file": "creatures/thermaplugg.webp",
+      "width": 464,
+      "height": 480
+    },
+    "creatures/tiger.webp": {
+      "file": "creatures/tiger.webp",
+      "width": 490,
+      "height": 440
+    },
+    "creatures/tortheldrin.webp": {
+      "file": "creatures/tortheldrin.webp",
+      "width": 457,
+      "height": 440
+    },
+    "creatures/trogg.webp": {
+      "file": "creatures/trogg.webp",
+      "width": 433,
+      "height": 440
+    },
+    "creatures/troll.webp": {
+      "file": "creatures/troll.webp",
+      "width": 389,
+      "height": 440
+    },
+    "creatures/tutenkash.webp": {
+      "file": "creatures/tutenkash.webp",
+      "width": 504,
+      "height": 440
+    },
+    "creatures/twilight.webp": {
+      "file": "creatures/twilight.webp",
+      "width": 337,
+      "height": 440
+    },
+    "creatures/twilightAcolyte.webp": {
+      "file": "creatures/twilightAcolyte.webp",
+      "width": 397,
+      "height": 440
+    },
+    "creatures/twin_emperors.webp": {
+      "file": "creatures/twin_emperors.webp",
+      "width": 448,
+      "height": 440
+    },
+    "creatures/vael.webp": {
+      "file": "creatures/vael.webp",
+      "width": 434,
+      "height": 440
+    },
+    "creatures/vancleef.webp": {
+      "file": "creatures/vancleef.webp",
+      "width": 395,
+      "height": 480
+    },
+    "creatures/veknilash.webp": {
+      "file": "creatures/veknilash.webp",
+      "width": 421,
+      "height": 440
+    },
+    "creatures/venoxis.webp": {
+      "file": "creatures/venoxis.webp",
+      "width": 450,
+      "height": 440
+    },
+    "creatures/venture.webp": {
+      "file": "creatures/venture.webp",
+      "width": 367,
+      "height": 440
+    },
+    "creatures/verdan.webp": {
+      "file": "creatures/verdan.webp",
+      "width": 489,
+      "height": 440
+    },
+    "creatures/vishas.webp": {
+      "file": "creatures/vishas.webp",
+      "width": 435,
+      "height": 440
+    },
+    "creatures/voidwalker.webp": {
+      "file": "creatures/voidwalker.webp",
+      "width": 420,
+      "height": 440
+    },
+    "creatures/voodooTotem.webp": {
+      "file": "creatures/voodooTotem.webp",
+      "width": 382,
+      "height": 440
+    },
+    "creatures/voshgajin.webp": {
+      "file": "creatures/voshgajin.webp",
+      "width": 428,
+      "height": 440
+    },
+    "creatures/vyletongue.webp": {
+      "file": "creatures/vyletongue.webp",
+      "width": 436,
+      "height": 440
+    },
+    "creatures/waterElemental.webp": {
+      "file": "creatures/waterElemental.webp",
+      "width": 458,
+      "height": 440
+    },
+    "creatures/weaver.webp": {
+      "file": "creatures/weaver.webp",
+      "width": 484,
+      "height": 440
+    },
+    "creatures/whelp.webp": {
+      "file": "creatures/whelp.webp",
+      "width": 465,
+      "height": 440
+    },
+    "creatures/whitemane.webp": {
+      "file": "creatures/whitemane.webp",
+      "width": 330,
+      "height": 480
+    },
+    "creatures/wolf.webp": {
+      "file": "creatures/wolf.webp",
+      "width": 514,
+      "height": 440
+    },
+    "creatures/worgen.webp": {
+      "file": "creatures/worgen.webp",
+      "width": 379,
+      "height": 440
+    },
+    "creatures/wyrmthalak.webp": {
+      "file": "creatures/wyrmthalak.webp",
+      "width": 474,
+      "height": 440
+    },
+    "creatures/yeti.webp": {
+      "file": "creatures/yeti.webp",
+      "width": 406,
+      "height": 440
+    },
+    "creatures/zevrim.webp": {
+      "file": "creatures/zevrim.webp",
+      "width": 410,
+      "height": 440
+    },
+    "creatures/zfZombie.webp": {
+      "file": "creatures/zfZombie.webp",
+      "width": 439,
+      "height": 440
+    },
+    "creatures/zombieChow.webp": {
+      "file": "creatures/zombieChow.webp",
+      "width": 475,
+      "height": 440
+    },
+    "creatures/zumrah.webp": {
+      "file": "creatures/zumrah.webp",
+      "width": 416,
+      "height": 440
+    },
+    "gear/cape_t1.webp": {
+      "file": "gear/cape_t1.webp",
+      "width": 264,
+      "height": 280
+    },
+    "gear/cape_t2.webp": {
+      "file": "gear/cape_t2.webp",
+      "width": 241,
+      "height": 280
+    },
+    "gear/cape_t3.webp": {
+      "file": "gear/cape_t3.webp",
+      "width": 278,
+      "height": 280
+    },
+    "gear/head_bandana.webp": {
+      "file": "gear/head_bandana.webp",
+      "width": 239,
+      "height": 280
+    },
+    "gear/head_circlet.webp": {
+      "file": "gear/head_circlet.webp",
+      "width": 254,
+      "height": 280
+    },
+    "gear/head_crown.webp": {
+      "file": "gear/head_crown.webp",
+      "width": 245,
+      "height": 280
+    },
+    "gear/head_feathers.webp": {
+      "file": "gear/head_feathers.webp",
+      "width": 246,
+      "height": 280
+    },
+    "gear/head_hat.webp": {
+      "file": "gear/head_hat.webp",
+      "width": 328,
+      "height": 280
+    },
+    "gear/head_helm.webp": {
+      "file": "gear/head_helm.webp",
+      "width": 183,
+      "height": 280
+    },
+    "gear/head_helmClosed.webp": {
+      "file": "gear/head_helmClosed.webp",
+      "width": 210,
+      "height": 280
+    },
+    "gear/head_helmHorned.webp": {
+      "file": "gear/head_helmHorned.webp",
+      "width": 292,
+      "height": 280
+    },
+    "gear/head_hood.webp": {
+      "file": "gear/head_hood.webp",
+      "width": 261,
+      "height": 280
+    },
+    "gear/head_mask.webp": {
+      "file": "gear/head_mask.webp",
+      "width": 245,
+      "height": 280
+    },
+    "gear/head_mitre.webp": {
+      "file": "gear/head_mitre.webp",
+      "width": 208,
+      "height": 280
+    },
+    "gear/head_skullcap.webp": {
+      "file": "gear/head_skullcap.webp",
+      "width": 235,
+      "height": 280
+    },
+    "gear/head_tricorn.webp": {
+      "file": "gear/head_tricorn.webp",
+      "width": 420,
+      "height": 280
+    },
+    "gear/off_book_t1.webp": {
+      "file": "gear/off_book_t1.webp",
+      "width": 308,
+      "height": 280
+    },
+    "gear/off_book_t2.webp": {
+      "file": "gear/off_book_t2.webp",
+      "width": 277,
+      "height": 280
+    },
+    "gear/off_book_t3.webp": {
+      "file": "gear/off_book_t3.webp",
+      "width": 298,
+      "height": 280
+    },
+    "gear/off_idol_t1.webp": {
+      "file": "gear/off_idol_t1.webp",
+      "width": 248,
+      "height": 280
+    },
+    "gear/off_idol_t2.webp": {
+      "file": "gear/off_idol_t2.webp",
+      "width": 198,
+      "height": 280
+    },
+    "gear/off_idol_t3.webp": {
+      "file": "gear/off_idol_t3.webp",
+      "width": 183,
+      "height": 280
+    },
+    "gear/off_orb_t1.webp": {
+      "file": "gear/off_orb_t1.webp",
+      "width": 210,
+      "height": 280
+    },
+    "gear/off_orb_t2.webp": {
+      "file": "gear/off_orb_t2.webp",
+      "width": 280,
+      "height": 280
+    },
+    "gear/off_orb_t3.webp": {
+      "file": "gear/off_orb_t3.webp",
+      "width": 274,
+      "height": 280
+    },
+    "gear/off_shieldWinged_t1.webp": {
+      "file": "gear/off_shieldWinged_t1.webp",
+      "width": 321,
+      "height": 280
+    },
+    "gear/off_shieldWinged_t2.webp": {
+      "file": "gear/off_shieldWinged_t2.webp",
+      "width": 290,
+      "height": 280
+    },
+    "gear/off_shieldWinged_t3.webp": {
+      "file": "gear/off_shieldWinged_t3.webp",
+      "width": 217,
+      "height": 280
+    },
+    "gear/off_shield_t1.webp": {
+      "file": "gear/off_shield_t1.webp",
+      "width": 245,
+      "height": 280
+    },
+    "gear/off_shield_t2.webp": {
+      "file": "gear/off_shield_t2.webp",
+      "width": 203,
+      "height": 280
+    },
+    "gear/off_shield_t3.webp": {
+      "file": "gear/off_shield_t3.webp",
+      "width": 196,
+      "height": 280
+    },
+    "gear/shoulder_crest.webp": {
+      "file": "gear/shoulder_crest.webp",
+      "width": 446,
+      "height": 280
+    },
+    "gear/shoulder_crystal.webp": {
+      "file": "gear/shoulder_crystal.webp",
+      "width": 288,
+      "height": 280
+    },
+    "gear/shoulder_dragon.webp": {
+      "file": "gear/shoulder_dragon.webp",
+      "width": 359,
+      "height": 280
+    },
+    "gear/shoulder_flame.webp": {
+      "file": "gear/shoulder_flame.webp",
+      "width": 277,
+      "height": 280
+    },
+    "gear/shoulder_gem.webp": {
+      "file": "gear/shoulder_gem.webp",
+      "width": 425,
+      "height": 280
+    },
+    "gear/shoulder_horn.webp": {
+      "file": "gear/shoulder_horn.webp",
+      "width": 304,
+      "height": 280
+    },
+    "gear/shoulder_layer.webp": {
+      "file": "gear/shoulder_layer.webp",
+      "width": 379,
+      "height": 280
+    },
+    "gear/shoulder_leaf.webp": {
+      "file": "gear/shoulder_leaf.webp",
+      "width": 327,
+      "height": 280
+    },
+    "gear/shoulder_lion.webp": {
+      "file": "gear/shoulder_lion.webp",
+      "width": 333,
+      "height": 280
+    },
+    "gear/shoulder_moon.webp": {
+      "file": "gear/shoulder_moon.webp",
+      "width": 360,
+      "height": 280
+    },
+    "gear/shoulder_plate.webp": {
+      "file": "gear/shoulder_plate.webp",
+      "width": 323,
+      "height": 280
+    },
+    "gear/shoulder_rune.webp": {
+      "file": "gear/shoulder_rune.webp",
+      "width": 459,
+      "height": 280
+    },
+    "gear/shoulder_skull.webp": {
+      "file": "gear/shoulder_skull.webp",
+      "width": 314,
+      "height": 280
+    },
+    "gear/shoulder_spike.webp": {
+      "file": "gear/shoulder_spike.webp",
+      "width": 298,
+      "height": 280
+    },
+    "gear/shoulder_wing.webp": {
+      "file": "gear/shoulder_wing.webp",
+      "width": 297,
+      "height": 280
+    },
+    "gear/shoulder_wolf.webp": {
+      "file": "gear/shoulder_wolf.webp",
+      "width": 303,
+      "height": 280
+    },
+    "gear/weapon_axe_t1.webp": {
+      "file": "gear/weapon_axe_t1.webp",
+      "width": 269,
+      "height": 280
+    },
+    "gear/weapon_axe_t2.webp": {
+      "file": "gear/weapon_axe_t2.webp",
+      "width": 244,
+      "height": 280
+    },
+    "gear/weapon_axe_t3.webp": {
+      "file": "gear/weapon_axe_t3.webp",
+      "width": 251,
+      "height": 280
+    },
+    "gear/weapon_bow_t1.webp": {
+      "file": "gear/weapon_bow_t1.webp",
+      "width": 271,
+      "height": 280
+    },
+    "gear/weapon_bow_t2.webp": {
+      "file": "gear/weapon_bow_t2.webp",
+      "width": 267,
+      "height": 280
+    },
+    "gear/weapon_bow_t3.webp": {
+      "file": "gear/weapon_bow_t3.webp",
+      "width": 272,
+      "height": 280
+    },
+    "gear/weapon_dagger_t1.webp": {
+      "file": "gear/weapon_dagger_t1.webp",
+      "width": 270,
+      "height": 280
+    },
+    "gear/weapon_dagger_t2.webp": {
+      "file": "gear/weapon_dagger_t2.webp",
+      "width": 283,
+      "height": 280
+    },
+    "gear/weapon_dagger_t3.webp": {
+      "file": "gear/weapon_dagger_t3.webp",
+      "width": 254,
+      "height": 280
+    },
+    "gear/weapon_greataxe_t1.webp": {
+      "file": "gear/weapon_greataxe_t1.webp",
+      "width": 287,
+      "height": 280
+    },
+    "gear/weapon_greataxe_t2.webp": {
+      "file": "gear/weapon_greataxe_t2.webp",
+      "width": 270,
+      "height": 280
+    },
+    "gear/weapon_greataxe_t3.webp": {
+      "file": "gear/weapon_greataxe_t3.webp",
+      "width": 272,
+      "height": 280
+    },
+    "gear/weapon_greathammer_t1.webp": {
+      "file": "gear/weapon_greathammer_t1.webp",
+      "width": 277,
+      "height": 280
+    },
+    "gear/weapon_greathammer_t2.webp": {
+      "file": "gear/weapon_greathammer_t2.webp",
+      "width": 279,
+      "height": 280
+    },
+    "gear/weapon_greathammer_t3.webp": {
+      "file": "gear/weapon_greathammer_t3.webp",
+      "width": 272,
+      "height": 280
+    },
+    "gear/weapon_greatsword_t1.webp": {
+      "file": "gear/weapon_greatsword_t1.webp",
+      "width": 279,
+      "height": 280
+    },
+    "gear/weapon_greatsword_t2.webp": {
+      "file": "gear/weapon_greatsword_t2.webp",
+      "width": 279,
+      "height": 280
+    },
+    "gear/weapon_greatsword_t3.webp": {
+      "file": "gear/weapon_greatsword_t3.webp",
+      "width": 277,
+      "height": 280
+    },
+    "gear/weapon_gun_t1.webp": {
+      "file": "gear/weapon_gun_t1.webp",
+      "width": 379,
+      "height": 280
+    },
+    "gear/weapon_gun_t2.webp": {
+      "file": "gear/weapon_gun_t2.webp",
+      "width": 398,
+      "height": 280
+    },
+    "gear/weapon_gun_t3.webp": {
+      "file": "gear/weapon_gun_t3.webp",
+      "width": 297,
+      "height": 280
+    },
+    "gear/weapon_leg_ashbringer.webp": {
+      "file": "gear/weapon_leg_ashbringer.webp",
+      "width": 276,
+      "height": 280
+    },
+    "gear/weapon_leg_atiesh.webp": {
+      "file": "gear/weapon_leg_atiesh.webp",
+      "width": 253,
+      "height": 280
+    },
+    "gear/weapon_leg_sulfuras.webp": {
+      "file": "gear/weapon_leg_sulfuras.webp",
+      "width": 286,
+      "height": 280
+    },
+    "gear/weapon_leg_thunderfury.webp": {
+      "file": "gear/weapon_leg_thunderfury.webp",
+      "width": 277,
+      "height": 280
+    },
+    "gear/weapon_mace_t1.webp": {
+      "file": "gear/weapon_mace_t1.webp",
+      "width": 274,
+      "height": 280
+    },
+    "gear/weapon_mace_t2.webp": {
+      "file": "gear/weapon_mace_t2.webp",
+      "width": 277,
+      "height": 280
+    },
+    "gear/weapon_mace_t3.webp": {
+      "file": "gear/weapon_mace_t3.webp",
+      "width": 276,
+      "height": 280
+    },
+    "gear/weapon_spear_t1.webp": {
+      "file": "gear/weapon_spear_t1.webp",
+      "width": 273,
+      "height": 280
+    },
+    "gear/weapon_spear_t2.webp": {
+      "file": "gear/weapon_spear_t2.webp",
+      "width": 272,
+      "height": 280
+    },
+    "gear/weapon_spear_t3.webp": {
+      "file": "gear/weapon_spear_t3.webp",
+      "width": 269,
+      "height": 280
+    },
+    "gear/weapon_staff_t1.webp": {
+      "file": "gear/weapon_staff_t1.webp",
+      "width": 259,
+      "height": 280
+    },
+    "gear/weapon_staff_t2.webp": {
+      "file": "gear/weapon_staff_t2.webp",
+      "width": 261,
+      "height": 280
+    },
+    "gear/weapon_staff_t3.webp": {
+      "file": "gear/weapon_staff_t3.webp",
+      "width": 277,
+      "height": 280
+    },
+    "gear/weapon_sword_t1.webp": {
+      "file": "gear/weapon_sword_t1.webp",
+      "width": 280,
+      "height": 280
+    },
+    "gear/weapon_sword_t2.webp": {
+      "file": "gear/weapon_sword_t2.webp",
+      "width": 275,
+      "height": 280
+    },
+    "gear/weapon_sword_t3.webp": {
+      "file": "gear/weapon_sword_t3.webp",
+      "width": 279,
+      "height": 280
+    },
+    "gear/weapon_wand_t1.webp": {
+      "file": "gear/weapon_wand_t1.webp",
+      "width": 333,
+      "height": 280
+    },
+    "gear/weapon_wand_t2.webp": {
+      "file": "gear/weapon_wand_t2.webp",
+      "width": 268,
+      "height": 280
+    },
+    "gear/weapon_wand_t3.webp": {
+      "file": "gear/weapon_wand_t3.webp",
+      "width": 280,
+      "height": 280
+    },
+    "heroes/base_dwarf_chain.webp": {
+      "file": "heroes/base_dwarf_chain.webp",
+      "width": 380,
+      "height": 440
+    },
+    "heroes/base_dwarf_leather.webp": {
+      "file": "heroes/base_dwarf_leather.webp",
+      "width": 358,
+      "height": 440
+    },
+    "heroes/base_dwarf_plate.webp": {
+      "file": "heroes/base_dwarf_plate.webp",
+      "width": 381,
+      "height": 440
+    },
+    "heroes/base_dwarf_robe.webp": {
+      "file": "heroes/base_dwarf_robe.webp",
+      "width": 396,
+      "height": 440
+    },
+    "heroes/base_gnome_chain.webp": {
+      "file": "heroes/base_gnome_chain.webp",
+      "width": 297,
+      "height": 440
+    },
+    "heroes/base_gnome_leather.webp": {
+      "file": "heroes/base_gnome_leather.webp",
+      "width": 304,
+      "height": 440
+    },
+    "heroes/base_gnome_plate.webp": {
+      "file": "heroes/base_gnome_plate.webp",
+      "width": 364,
+      "height": 440
+    },
+    "heroes/base_gnome_robe.webp": {
+      "file": "heroes/base_gnome_robe.webp",
+      "width": 320,
+      "height": 440
+    },
+    "heroes/base_human_chain.webp": {
+      "file": "heroes/base_human_chain.webp",
+      "width": 355,
+      "height": 440
+    },
+    "heroes/base_human_leather.webp": {
+      "file": "heroes/base_human_leather.webp",
+      "width": 310,
+      "height": 440
+    },
+    "heroes/base_human_plate.webp": {
+      "file": "heroes/base_human_plate.webp",
+      "width": 371,
+      "height": 440
+    },
+    "heroes/base_human_robe.webp": {
+      "file": "heroes/base_human_robe.webp",
+      "width": 342,
+      "height": 440
+    },
+    "heroes/base_nightelf_chain.webp": {
+      "file": "heroes/base_nightelf_chain.webp",
+      "width": 327,
+      "height": 440
+    },
+    "heroes/base_nightelf_leather.webp": {
+      "file": "heroes/base_nightelf_leather.webp",
+      "width": 315,
+      "height": 440
+    },
+    "heroes/base_nightelf_plate.webp": {
+      "file": "heroes/base_nightelf_plate.webp",
+      "width": 247,
+      "height": 440
+    },
+    "heroes/base_nightelf_robe.webp": {
+      "file": "heroes/base_nightelf_robe.webp",
+      "width": 294,
+      "height": 440
+    },
+    "heroes/base_orc_chain.webp": {
+      "file": "heroes/base_orc_chain.webp",
+      "width": 313,
+      "height": 440
+    },
+    "heroes/base_orc_leather.webp": {
+      "file": "heroes/base_orc_leather.webp",
+      "width": 298,
+      "height": 440
+    },
+    "heroes/base_orc_plate.webp": {
+      "file": "heroes/base_orc_plate.webp",
+      "width": 345,
+      "height": 440
+    },
+    "heroes/base_orc_robe.webp": {
+      "file": "heroes/base_orc_robe.webp",
+      "width": 354,
+      "height": 440
+    },
+    "heroes/base_tauren_chain.webp": {
+      "file": "heroes/base_tauren_chain.webp",
+      "width": 369,
+      "height": 440
+    },
+    "heroes/base_tauren_leather.webp": {
+      "file": "heroes/base_tauren_leather.webp",
+      "width": 378,
+      "height": 440
+    },
+    "heroes/base_tauren_plate.webp": {
+      "file": "heroes/base_tauren_plate.webp",
+      "width": 388,
+      "height": 440
+    },
+    "heroes/base_tauren_robe.webp": {
+      "file": "heroes/base_tauren_robe.webp",
+      "width": 414,
+      "height": 440
+    },
+    "heroes/base_troll_chain.webp": {
+      "file": "heroes/base_troll_chain.webp",
+      "width": 354,
+      "height": 440
+    },
+    "heroes/base_troll_leather.webp": {
+      "file": "heroes/base_troll_leather.webp",
+      "width": 280,
+      "height": 440
+    },
+    "heroes/base_troll_plate.webp": {
+      "file": "heroes/base_troll_plate.webp",
+      "width": 295,
+      "height": 440
+    },
+    "heroes/base_troll_robe.webp": {
+      "file": "heroes/base_troll_robe.webp",
+      "width": 274,
+      "height": 440
+    },
+    "heroes/base_undead_chain.webp": {
+      "file": "heroes/base_undead_chain.webp",
+      "width": 260,
+      "height": 440
+    },
+    "heroes/base_undead_leather.webp": {
+      "file": "heroes/base_undead_leather.webp",
+      "width": 305,
+      "height": 440
+    },
+    "heroes/base_undead_plate.webp": {
+      "file": "heroes/base_undead_plate.webp",
+      "width": 315,
+      "height": 440
+    },
+    "heroes/base_undead_robe.webp": {
+      "file": "heroes/base_undead_robe.webp",
+      "width": 309,
+      "height": 440
+    },
+    "heroes/hero_dwarf_hunter.webp": {
+      "file": "heroes/hero_dwarf_hunter.webp",
+      "width": 422,
+      "height": 440
+    },
+    "heroes/hero_dwarf_priest.webp": {
+      "file": "heroes/hero_dwarf_priest.webp",
+      "width": 460,
+      "height": 440
+    },
+    "heroes/hero_gnome_warlock.webp": {
+      "file": "heroes/hero_gnome_warlock.webp",
+      "width": 383,
+      "height": 440
+    },
+    "heroes/hero_human_mage.webp": {
+      "file": "heroes/hero_human_mage.webp",
+      "width": 472,
+      "height": 440
+    },
+    "heroes/hero_human_paladin.webp": {
+      "file": "heroes/hero_human_paladin.webp",
+      "width": 431,
+      "height": 440
+    },
+    "heroes/hero_nightelf_druid.webp": {
+      "file": "heroes/hero_nightelf_druid.webp",
+      "width": 336,
+      "height": 440
+    },
+    "heroes/hero_nightelf_hunter.webp": {
+      "file": "heroes/hero_nightelf_hunter.webp",
+      "width": 362,
+      "height": 440
+    },
+    "heroes/hero_orc_warlock.webp": {
+      "file": "heroes/hero_orc_warlock.webp",
+      "width": 422,
+      "height": 440
+    },
+    "heroes/hero_orc_warrior.webp": {
+      "file": "heroes/hero_orc_warrior.webp",
+      "width": 393,
+      "height": 440
+    },
+    "heroes/hero_tauren_warrior.webp": {
+      "file": "heroes/hero_tauren_warrior.webp",
+      "width": 423,
+      "height": 440
+    },
+    "heroes/hero_troll_shaman.webp": {
+      "file": "heroes/hero_troll_shaman.webp",
+      "width": 387,
+      "height": 440
+    },
+    "heroes/hero_undead_rogue.webp": {
+      "file": "heroes/hero_undead_rogue.webp",
+      "width": 357,
+      "height": 440
+    },
+    "icons/acid-spit.webp": {
+      "file": "icons/acid-spit.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/adrenaline-rush.webp": {
+      "file": "icons/adrenaline-rush.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/aimed.webp": {
+      "file": "icons/aimed.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/ambush.webp": {
+      "file": "icons/ambush.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/ancestral-spirit.webp": {
+      "file": "icons/ancestral-spirit.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/arcane-burst.webp": {
+      "file": "icons/arcane-burst.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/arcane-missiles.webp": {
+      "file": "icons/arcane-missiles.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/arcane-power.webp": {
+      "file": "icons/arcane-power.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/arcane-shot.webp": {
+      "file": "icons/arcane-shot.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/auto-shot.webp": {
+      "file": "icons/auto-shot.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/backstab.webp": {
+      "file": "icons/backstab.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/banner.webp": {
+      "file": "icons/banner.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/bestial.webp": {
+      "file": "icons/bestial.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/bite.webp": {
+      "file": "icons/bite.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/blade-flurry.webp": {
+      "file": "icons/blade-flurry.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/bleed.webp": {
+      "file": "icons/bleed.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/blink.webp": {
+      "file": "icons/blink.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/blizzard.webp": {
+      "file": "icons/blizzard.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/bloodthirst.webp": {
+      "file": "icons/bloodthirst.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/bomb.webp": {
+      "file": "icons/bomb.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/bop.webp": {
+      "file": "icons/bop.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/boulder.webp": {
+      "file": "icons/boulder.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/bubble.webp": {
+      "file": "icons/bubble.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/buff.webp": {
+      "file": "icons/buff.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/chain-heal.webp": {
+      "file": "icons/chain-heal.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/chain-lightning.webp": {
+      "file": "icons/chain-lightning.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/charge.webp": {
+      "file": "icons/charge.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/claw.webp": {
+      "file": "icons/claw.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/cleanse.webp": {
+      "file": "icons/cleanse.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/cleansing-totem.webp": {
+      "file": "icons/cleansing-totem.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/cleave.webp": {
+      "file": "icons/cleave.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/cold-blood.webp": {
+      "file": "icons/cold-blood.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/cold-snap.webp": {
+      "file": "icons/cold-snap.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/concussion-blow.webp": {
+      "file": "icons/concussion-blow.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/cone-cold.webp": {
+      "file": "icons/cone-cold.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/conflagrate.webp": {
+      "file": "icons/conflagrate.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/consecration.webp": {
+      "file": "icons/consecration.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/corruption.webp": {
+      "file": "icons/corruption.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/crit.webp": {
+      "file": "icons/crit.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/crusader-strike.webp": {
+      "file": "icons/crusader-strike.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/curse-weak.webp": {
+      "file": "icons/curse-weak.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/curse.webp": {
+      "file": "icons/curse.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/dagger-strike.webp": {
+      "file": "icons/dagger-strike.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/death-coil.webp": {
+      "file": "icons/death-coil.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/debuff.webp": {
+      "file": "icons/debuff.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/demo-shout.webp": {
+      "file": "icons/demo-shout.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/demon-armor.webp": {
+      "file": "icons/demon-armor.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/devotion.webp": {
+      "file": "icons/devotion.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/disarm.webp": {
+      "file": "icons/disarm.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/dispel.webp": {
+      "file": "icons/dispel.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/divine-shield.webp": {
+      "file": "icons/divine-shield.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/dodge.webp": {
+      "file": "icons/dodge.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/earth-shock.webp": {
+      "file": "icons/earth-shock.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/elemental-mastery.webp": {
+      "file": "icons/elemental-mastery.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/elixir-guard.webp": {
+      "file": "icons/elixir-guard.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/elixir.webp": {
+      "file": "icons/elixir.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/envenom.webp": {
+      "file": "icons/envenom.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/evasion.webp": {
+      "file": "icons/evasion.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/eviscerate.webp": {
+      "file": "icons/eviscerate.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/execute.webp": {
+      "file": "icons/execute.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/exorcism.webp": {
+      "file": "icons/exorcism.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/explosive.webp": {
+      "file": "icons/explosive.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/f-argent.webp": {
+      "file": "icons/f-argent.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/f-cenarion.webp": {
+      "file": "icons/f-cenarion.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/f-darnassus.webp": {
+      "file": "icons/f-darnassus.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/f-ironforge.webp": {
+      "file": "icons/f-ironforge.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/f-orgrimmar.webp": {
+      "file": "icons/f-orgrimmar.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/f-steamwheedle.webp": {
+      "file": "icons/f-steamwheedle.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/f-stormwind.webp": {
+      "file": "icons/f-stormwind.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/f-thunderbluff.webp": {
+      "file": "icons/f-thunderbluff.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/f-undercity.webp": {
+      "file": "icons/f-undercity.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/fade.webp": {
+      "file": "icons/fade.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/fear.webp": {
+      "file": "icons/fear.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/fire-breath.webp": {
+      "file": "icons/fire-breath.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/fire-burst.webp": {
+      "file": "icons/fire-burst.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/fire-nova.webp": {
+      "file": "icons/fire-nova.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/fire-rain.webp": {
+      "file": "icons/fire-rain.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/fire-shield.webp": {
+      "file": "icons/fire-shield.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/fireball.webp": {
+      "file": "icons/fireball.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/fist.webp": {
+      "file": "icons/fist.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/flame-hammer.webp": {
+      "file": "icons/flame-hammer.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/flame-shock.webp": {
+      "file": "icons/flame-shock.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/flame.webp": {
+      "file": "icons/flame.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/flamestrike.webp": {
+      "file": "icons/flamestrike.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/flametongue.webp": {
+      "file": "icons/flametongue.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/flash-heal.webp": {
+      "file": "icons/flash-heal.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/fortitude.webp": {
+      "file": "icons/fortitude.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/freeze-trap.webp": {
+      "file": "icons/freeze-trap.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/frenzied-regen.webp": {
+      "file": "icons/frenzied-regen.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/frenzy.webp": {
+      "file": "icons/frenzy.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/frost-nova.webp": {
+      "file": "icons/frost-nova.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/frostbolt.webp": {
+      "file": "icons/frostbolt.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/garrote.webp": {
+      "file": "icons/garrote.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/ghost-wolf.webp": {
+      "file": "icons/ghost-wolf.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/gouge.webp": {
+      "file": "icons/gouge.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/greater-heal.webp": {
+      "file": "icons/greater-heal.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/growl.webp": {
+      "file": "icons/growl.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/gunshot.webp": {
+      "file": "icons/gunshot.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/hammer-justice.webp": {
+      "file": "icons/hammer-justice.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/hammer-righteous.webp": {
+      "file": "icons/hammer-righteous.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/hammer-wrath.webp": {
+      "file": "icons/hammer-wrath.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/hawk.webp": {
+      "file": "icons/hawk.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/healing-stream.webp": {
+      "file": "icons/healing-stream.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/healing-touch.webp": {
+      "file": "icons/healing-touch.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/healing-wave.webp": {
+      "file": "icons/healing-wave.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/healing-wave2.webp": {
+      "file": "icons/healing-wave2.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/health-funnel.webp": {
+      "file": "icons/health-funnel.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/healthstone.webp": {
+      "file": "icons/healthstone.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/hellfire.webp": {
+      "file": "icons/hellfire.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/hemorrhage.webp": {
+      "file": "icons/hemorrhage.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/holy-aura.webp": {
+      "file": "icons/holy-aura.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/holy-bolt.webp": {
+      "file": "icons/holy-bolt.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/holy-burst.webp": {
+      "file": "icons/holy-burst.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/holy-fire.webp": {
+      "file": "icons/holy-fire.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/holy-hands.webp": {
+      "file": "icons/holy-hands.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/holy-heal.webp": {
+      "file": "icons/holy-heal.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/holy-nova.webp": {
+      "file": "icons/holy-nova.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/holy-shield.webp": {
+      "file": "icons/holy-shield.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/holy-strike.webp": {
+      "file": "icons/holy-strike.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/hourglass.webp": {
+      "file": "icons/hourglass.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/howl.webp": {
+      "file": "icons/howl.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/ice-block.webp": {
+      "file": "icons/ice-block.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/ice-shield.webp": {
+      "file": "icons/ice-shield.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/immolate.webp": {
+      "file": "icons/immolate.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/imp-bolt.webp": {
+      "file": "icons/imp-bolt.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/inner-fire.webp": {
+      "file": "icons/inner-fire.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/inner-focus.webp": {
+      "file": "icons/inner-focus.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/innervate.webp": {
+      "file": "icons/innervate.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/intercept.webp": {
+      "file": "icons/intercept.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/invis.webp": {
+      "file": "icons/invis.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/judgement.webp": {
+      "file": "icons/judgement.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/last-stand.webp": {
+      "file": "icons/last-stand.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/leaf-heal.webp": {
+      "file": "icons/leaf-heal.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/life-drain.webp": {
+      "file": "icons/life-drain.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/life-tap.webp": {
+      "file": "icons/life-tap.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/lightning-shield.webp": {
+      "file": "icons/lightning-shield.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/lightning.webp": {
+      "file": "icons/lightning.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/m-ballista.webp": {
+      "file": "icons/m-ballista.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/m-cart.webp": {
+      "file": "icons/m-cart.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/m-tent.webp": {
+      "file": "icons/m-tent.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/mana-drain.webp": {
+      "file": "icons/mana-drain.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/mana-flame.webp": {
+      "file": "icons/mana-flame.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/mana-shield.webp": {
+      "file": "icons/mana-shield.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/mana-swirl.webp": {
+      "file": "icons/mana-swirl.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/mana-tide.webp": {
+      "file": "icons/mana-tide.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/mend-pet.webp": {
+      "file": "icons/mend-pet.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/might.webp": {
+      "file": "icons/might.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/mind-blast.webp": {
+      "file": "icons/mind-blast.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/mind-control.webp": {
+      "file": "icons/mind-control.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/mind-flay.webp": {
+      "file": "icons/mind-flay.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/mocking-blow.webp": {
+      "file": "icons/mocking-blow.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/mongoose.webp": {
+      "file": "icons/mongoose.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/moon.webp": {
+      "file": "icons/moon.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/moonkin.webp": {
+      "file": "icons/moonkin.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/mortal-strike.webp": {
+      "file": "icons/mortal-strike.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/mount.webp": {
+      "file": "icons/mount.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/multishot.webp": {
+      "file": "icons/multishot.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/mutilate.webp": {
+      "file": "icons/mutilate.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/nature-bolt.webp": {
+      "file": "icons/nature-bolt.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/overpower.webp": {
+      "file": "icons/overpower.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/pack.webp": {
+      "file": "icons/pack.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/paw.webp": {
+      "file": "icons/paw.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/plague-cloud.webp": {
+      "file": "icons/plague-cloud.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/plague.webp": {
+      "file": "icons/plague.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/poison-volley.webp": {
+      "file": "icons/poison-volley.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/poison.webp": {
+      "file": "icons/poison.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/polarity-storm.webp": {
+      "file": "icons/polarity-storm.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/polymorph.webp": {
+      "file": "icons/polymorph.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/portal.webp": {
+      "file": "icons/portal.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/potion-heal.webp": {
+      "file": "icons/potion-heal.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/potion-mana.webp": {
+      "file": "icons/potion-mana.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/power-infusion.webp": {
+      "file": "icons/power-infusion.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/power.webp": {
+      "file": "icons/power.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/prayer.webp": {
+      "file": "icons/prayer.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/psychic-scream.webp": {
+      "file": "icons/psychic-scream.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/pw-shield.webp": {
+      "file": "icons/pw-shield.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/pyroblast.webp": {
+      "file": "icons/pyroblast.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/quake.webp": {
+      "file": "icons/quake.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/raise-dead.webp": {
+      "file": "icons/raise-dead.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/rake.webp": {
+      "file": "icons/rake.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/rapid-fire.webp": {
+      "file": "icons/rapid-fire.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/raptor.webp": {
+      "file": "icons/raptor.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/rebirth.webp": {
+      "file": "icons/rebirth.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/redemption.webp": {
+      "file": "icons/redemption.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/reincarnation.webp": {
+      "file": "icons/reincarnation.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/renew.webp": {
+      "file": "icons/renew.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/repentance.webp": {
+      "file": "icons/repentance.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/resurrection.webp": {
+      "file": "icons/resurrection.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/ret-aura.webp": {
+      "file": "icons/ret-aura.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/retaliation.webp": {
+      "file": "icons/retaliation.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/revenge.webp": {
+      "file": "icons/revenge.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/revive-pet.webp": {
+      "file": "icons/revive-pet.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/rip.webp": {
+      "file": "icons/rip.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/rupture.webp": {
+      "file": "icons/rupture.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/scales.webp": {
+      "file": "icons/scales.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/scatter-shot.webp": {
+      "file": "icons/scatter-shot.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/scroll.webp": {
+      "file": "icons/scroll.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/searing-pain.webp": {
+      "file": "icons/searing-pain.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/searing-totem.webp": {
+      "file": "icons/searing-totem.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/serpent.webp": {
+      "file": "icons/serpent.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/shadow-bolt.webp": {
+      "file": "icons/shadow-bolt.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/shadow-burst.webp": {
+      "file": "icons/shadow-burst.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/shadow-shield.webp": {
+      "file": "icons/shadow-shield.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/shadowburn.webp": {
+      "file": "icons/shadowburn.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/shadowform.webp": {
+      "file": "icons/shadowform.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/shadowstep.webp": {
+      "file": "icons/shadowstep.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/shell.webp": {
+      "file": "icons/shell.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/shield-slam.webp": {
+      "file": "icons/shield-slam.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/shield-wall.webp": {
+      "file": "icons/shield-wall.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/shockwave.webp": {
+      "file": "icons/shockwave.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/siphon.webp": {
+      "file": "icons/siphon.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/sleep.webp": {
+      "file": "icons/sleep.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/slice.webp": {
+      "file": "icons/slice.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/smite.webp": {
+      "file": "icons/smite.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/soul-link.webp": {
+      "file": "icons/soul-link.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/soulstone.webp": {
+      "file": "icons/soulstone.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/spear-throw.webp": {
+      "file": "icons/spear-throw.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/sprout.webp": {
+      "file": "icons/sprout.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/star.webp": {
+      "file": "icons/star.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/starfire.webp": {
+      "file": "icons/starfire.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/stinger.webp": {
+      "file": "icons/stinger.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/stoneskin.webp": {
+      "file": "icons/stoneskin.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/storm.webp": {
+      "file": "icons/storm.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/stormstrike.webp": {
+      "file": "icons/stormstrike.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/strength-earth.webp": {
+      "file": "icons/strength-earth.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/stun.webp": {
+      "file": "icons/stun.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/sunder.webp": {
+      "file": "icons/sunder.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/sw-pain.webp": {
+      "file": "icons/sw-pain.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/swarm.webp": {
+      "file": "icons/swarm.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/swiftmend.webp": {
+      "file": "icons/swiftmend.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/sword-strike.webp": {
+      "file": "icons/sword-strike.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/taunt.webp": {
+      "file": "icons/taunt.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/thorns.webp": {
+      "file": "icons/thorns.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/thunder.webp": {
+      "file": "icons/thunder.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/totem.webp": {
+      "file": "icons/totem.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/tranquility.webp": {
+      "file": "icons/tranquility.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/vampiric.webp": {
+      "file": "icons/vampiric.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/vanish.webp": {
+      "file": "icons/vanish.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/vine-lash.webp": {
+      "file": "icons/vine-lash.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/vines.webp": {
+      "file": "icons/vines.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/voidwalker.webp": {
+      "file": "icons/voidwalker.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/war-rend.webp": {
+      "file": "icons/war-rend.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/warcry.webp": {
+      "file": "icons/warcry.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/web.webp": {
+      "file": "icons/web.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/whirlwind.webp": {
+      "file": "icons/whirlwind.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/windfury.webp": {
+      "file": "icons/windfury.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/wing-clip.webp": {
+      "file": "icons/wing-clip.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-amulet.webp": {
+      "file": "items/i-amulet.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-axe.webp": {
+      "file": "items/i-axe.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-bell.webp": {
+      "file": "items/i-bell.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-bone.webp": {
+      "file": "items/i-bone.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-book.webp": {
+      "file": "items/i-book.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-boots.webp": {
+      "file": "items/i-boots.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-bow.webp": {
+      "file": "items/i-bow.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-chest-chain.webp": {
+      "file": "items/i-chest-chain.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-chest-leather.webp": {
+      "file": "items/i-chest-leather.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-chest-plate.webp": {
+      "file": "items/i-chest-plate.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-cloak.webp": {
+      "file": "items/i-cloak.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-dagger.webp": {
+      "file": "items/i-dagger.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-eye.webp": {
+      "file": "items/i-eye.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-gloves.webp": {
+      "file": "items/i-gloves.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-gun.webp": {
+      "file": "items/i-gun.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-hammer.webp": {
+      "file": "items/i-hammer.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-helm.webp": {
+      "file": "items/i-helm.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-idol.webp": {
+      "file": "items/i-idol.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-legs-plate.webp": {
+      "file": "items/i-legs-plate.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-legs.webp": {
+      "file": "items/i-legs.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-mace.webp": {
+      "file": "items/i-mace.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-orb.webp": {
+      "file": "items/i-orb.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-ring.webp": {
+      "file": "items/i-ring.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-robe.webp": {
+      "file": "items/i-robe.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-scale.webp": {
+      "file": "items/i-scale.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-scarab.webp": {
+      "file": "items/i-scarab.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-shield.webp": {
+      "file": "items/i-shield.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-shoulder.webp": {
+      "file": "items/i-shoulder.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-spear.webp": {
+      "file": "items/i-spear.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-staff.webp": {
+      "file": "items/i-staff.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-stone.webp": {
+      "file": "items/i-stone.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-sword.webp": {
+      "file": "items/i-sword.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-urn.webp": {
+      "file": "items/i-urn.webp",
+      "width": 128,
+      "height": 128
+    },
+    "items/i-wand.webp": {
+      "file": "items/i-wand.webp",
+      "width": 128,
+      "height": 128
+    },
+    "map/mo_board.webp": {
+      "file": "map/mo_board.webp",
+      "width": 127,
+      "height": 160
+    },
+    "map/mo_camp.webp": {
+      "file": "map/mo_camp.webp",
+      "width": 177,
+      "height": 160
+    },
+    "map/mo_chest.webp": {
+      "file": "map/mo_chest.webp",
+      "width": 148,
+      "height": 160
+    },
+    "map/mo_d_aq.webp": {
+      "file": "map/mo_d_aq.webp",
+      "width": 240,
+      "height": 240
+    },
+    "map/mo_d_aq20.webp": {
+      "file": "map/mo_d_aq20.webp",
+      "width": 262,
+      "height": 240
+    },
+    "map/mo_d_bfd.webp": {
+      "file": "map/mo_d_bfd.webp",
+      "width": 246,
+      "height": 240
+    },
+    "map/mo_d_brd.webp": {
+      "file": "map/mo_d_brd.webp",
+      "width": 256,
+      "height": 240
+    },
+    "map/mo_d_bwl.webp": {
+      "file": "map/mo_d_bwl.webp",
+      "width": 207,
+      "height": 240
+    },
+    "map/mo_d_dm.webp": {
+      "file": "map/mo_d_dm.webp",
+      "width": 199,
+      "height": 240
+    },
+    "map/mo_d_dmaul.webp": {
+      "file": "map/mo_d_dmaul.webp",
+      "width": 244,
+      "height": 240
+    },
+    "map/mo_d_gnomer.webp": {
+      "file": "map/mo_d_gnomer.webp",
+      "width": 258,
+      "height": 240
+    },
+    "map/mo_d_lbrs.webp": {
+      "file": "map/mo_d_lbrs.webp",
+      "width": 207,
+      "height": 240
+    },
+    "map/mo_d_mara.webp": {
+      "file": "map/mo_d_mara.webp",
+      "width": 238,
+      "height": 240
+    },
+    "map/mo_d_mc.webp": {
+      "file": "map/mo_d_mc.webp",
+      "width": 251,
+      "height": 240
+    },
+    "map/mo_d_naxx.webp": {
+      "file": "map/mo_d_naxx.webp",
+      "width": 233,
+      "height": 240
+    },
+    "map/mo_d_ony.webp": {
+      "file": "map/mo_d_ony.webp",
+      "width": 226,
+      "height": 240
+    },
+    "map/mo_d_rfd.webp": {
+      "file": "map/mo_d_rfd.webp",
+      "width": 248,
+      "height": 240
+    },
+    "map/mo_d_rfk.webp": {
+      "file": "map/mo_d_rfk.webp",
+      "width": 267,
+      "height": 240
+    },
+    "map/mo_d_scholo.webp": {
+      "file": "map/mo_d_scholo.webp",
+      "width": 226,
+      "height": 240
+    },
+    "map/mo_d_sfk.webp": {
+      "file": "map/mo_d_sfk.webp",
+      "width": 205,
+      "height": 240
+    },
+    "map/mo_d_sm.webp": {
+      "file": "map/mo_d_sm.webp",
+      "width": 219,
+      "height": 240
+    },
+    "map/mo_d_st.webp": {
+      "file": "map/mo_d_st.webp",
+      "width": 266,
+      "height": 240
+    },
+    "map/mo_d_stockade.webp": {
+      "file": "map/mo_d_stockade.webp",
+      "width": 235,
+      "height": 240
+    },
+    "map/mo_d_strat.webp": {
+      "file": "map/mo_d_strat.webp",
+      "width": 247,
+      "height": 240
+    },
+    "map/mo_d_ulda.webp": {
+      "file": "map/mo_d_ulda.webp",
+      "width": 266,
+      "height": 240
+    },
+    "map/mo_d_wc.webp": {
+      "file": "map/mo_d_wc.webp",
+      "width": 248,
+      "height": 240
+    },
+    "map/mo_d_zf.webp": {
+      "file": "map/mo_d_zf.webp",
+      "width": 260,
+      "height": 240
+    },
+    "map/mo_d_zg.webp": {
+      "file": "map/mo_d_zg.webp",
+      "width": 256,
+      "height": 240
+    },
+    "map/mo_flag.webp": {
+      "file": "map/mo_flag.webp",
+      "width": 109,
+      "height": 160
+    },
+    "map/mo_flight.webp": {
+      "file": "map/mo_flight.webp",
+      "width": 156,
+      "height": 200
+    },
+    "map/mo_flight_bat.webp": {
+      "file": "map/mo_flight_bat.webp",
+      "width": 193,
+      "height": 200
+    },
+    "map/mo_flight_windrider.webp": {
+      "file": "map/mo_flight_windrider.webp",
+      "width": 112,
+      "height": 200
+    },
+    "map/mo_gold.webp": {
+      "file": "map/mo_gold.webp",
+      "width": 108,
+      "height": 160
+    },
+    "map/mo_guard.webp": {
+      "file": "map/mo_guard.webp",
+      "width": 132,
+      "height": 160
+    },
+    "map/mo_harbor.webp": {
+      "file": "map/mo_harbor.webp",
+      "width": 192,
+      "height": 200
+    },
+    "map/mo_hero_horse_alliance.webp": {
+      "file": "map/mo_hero_horse_alliance.webp",
+      "width": 149,
+      "height": 200
+    },
+    "map/mo_hero_kodo_horde.webp": {
+      "file": "map/mo_hero_kodo_horde.webp",
+      "width": 178,
+      "height": 200
+    },
+    "map/mo_hero_ram_alliance.webp": {
+      "file": "map/mo_hero_ram_alliance.webp",
+      "width": 151,
+      "height": 200
+    },
+    "map/mo_hero_saber_alliance.webp": {
+      "file": "map/mo_hero_saber_alliance.webp",
+      "width": 192,
+      "height": 200
+    },
+    "map/mo_hero_skeletal_horde.webp": {
+      "file": "map/mo_hero_skeletal_horde.webp",
+      "width": 125,
+      "height": 200
+    },
+    "map/mo_hero_wolf_horde.webp": {
+      "file": "map/mo_hero_wolf_horde.webp",
+      "width": 170,
+      "height": 200
+    },
+    "map/mo_lock.webp": {
+      "file": "map/mo_lock.webp",
+      "width": 165,
+      "height": 160
+    },
+    "map/mo_npc_argent.webp": {
+      "file": "map/mo_npc_argent.webp",
+      "width": 109,
+      "height": 180
+    },
+    "map/mo_npc_druid.webp": {
+      "file": "map/mo_npc_druid.webp",
+      "width": 148,
+      "height": 180
+    },
+    "map/mo_npc_dwarf.webp": {
+      "file": "map/mo_npc_dwarf.webp",
+      "width": 153,
+      "height": 180
+    },
+    "map/mo_npc_forsaken.webp": {
+      "file": "map/mo_npc_forsaken.webp",
+      "width": 139,
+      "height": 180
+    },
+    "map/mo_npc_gnome.webp": {
+      "file": "map/mo_npc_gnome.webp",
+      "width": 181,
+      "height": 180
+    },
+    "map/mo_npc_goblin.webp": {
+      "file": "map/mo_npc_goblin.webp",
+      "width": 134,
+      "height": 180
+    },
+    "map/mo_npc_guard.webp": {
+      "file": "map/mo_npc_guard.webp",
+      "width": 141,
+      "height": 180
+    },
+    "map/mo_npc_hunter.webp": {
+      "file": "map/mo_npc_hunter.webp",
+      "width": 171,
+      "height": 180
+    },
+    "map/mo_npc_jaina.webp": {
+      "file": "map/mo_npc_jaina.webp",
+      "width": 146,
+      "height": 180
+    },
+    "map/mo_npc_mage.webp": {
+      "file": "map/mo_npc_mage.webp",
+      "width": 132,
+      "height": 180
+    },
+    "map/mo_npc_marshal.webp": {
+      "file": "map/mo_npc_marshal.webp",
+      "width": 177,
+      "height": 180
+    },
+    "map/mo_npc_orc.webp": {
+      "file": "map/mo_npc_orc.webp",
+      "width": 156,
+      "height": 180
+    },
+    "map/mo_npc_orc_f.webp": {
+      "file": "map/mo_npc_orc_f.webp",
+      "width": 128,
+      "height": 180
+    },
+    "map/mo_npc_peasant.webp": {
+      "file": "map/mo_npc_peasant.webp",
+      "width": 118,
+      "height": 180
+    },
+    "map/mo_npc_priest.webp": {
+      "file": "map/mo_npc_priest.webp",
+      "width": 129,
+      "height": 180
+    },
+    "map/mo_npc_scout.webp": {
+      "file": "map/mo_npc_scout.webp",
+      "width": 156,
+      "height": 180
+    },
+    "map/mo_npc_sentinel.webp": {
+      "file": "map/mo_npc_sentinel.webp",
+      "width": 139,
+      "height": 180
+    },
+    "map/mo_npc_sylvanas.webp": {
+      "file": "map/mo_npc_sylvanas.webp",
+      "width": 162,
+      "height": 180
+    },
+    "map/mo_npc_tauren.webp": {
+      "file": "map/mo_npc_tauren.webp",
+      "width": 162,
+      "height": 180
+    },
+    "map/mo_npc_tauren_chief.webp": {
+      "file": "map/mo_npc_tauren_chief.webp",
+      "width": 175,
+      "height": 180
+    },
+    "map/mo_npc_thrall.webp": {
+      "file": "map/mo_npc_thrall.webp",
+      "width": 201,
+      "height": 180
+    },
+    "map/mo_npc_troll.webp": {
+      "file": "map/mo_npc_troll.webp",
+      "width": 133,
+      "height": 180
+    },
+    "map/mo_obelisk.webp": {
+      "file": "map/mo_obelisk.webp",
+      "width": 127,
+      "height": 160
+    },
+    "map/mo_q_available.webp": {
+      "file": "map/mo_q_available.webp",
+      "width": 107,
+      "height": 160
+    },
+    "map/mo_q_turnin.webp": {
+      "file": "map/mo_q_turnin.webp",
+      "width": 108,
+      "height": 160
+    },
+    "map/mo_qmark.webp": {
+      "file": "map/mo_qmark.webp",
+      "width": 203,
+      "height": 160
+    },
+    "map/mo_qp.webp": {
+      "file": "map/mo_qp.webp",
+      "width": 150,
+      "height": 160
+    },
+    "map/mo_rare.webp": {
+      "file": "map/mo_rare.webp",
+      "width": 165,
+      "height": 160
+    },
+    "map/mo_t_chapel.webp": {
+      "file": "map/mo_t_chapel.webp",
+      "width": 196,
+      "height": 280
+    },
+    "map/mo_t_elven.webp": {
+      "file": "map/mo_t_elven.webp",
+      "width": 306,
+      "height": 280
+    },
+    "map/mo_t_fort.webp": {
+      "file": "map/mo_t_fort.webp",
+      "width": 245,
+      "height": 280
+    },
+    "map/mo_t_goblin.webp": {
+      "file": "map/mo_t_goblin.webp",
+      "width": 299,
+      "height": 280
+    },
+    "map/mo_t_horde.webp": {
+      "file": "map/mo_t_horde.webp",
+      "width": 294,
+      "height": 280
+    },
+    "map/mo_t_ironforge.webp": {
+      "file": "map/mo_t_ironforge.webp",
+      "width": 265,
+      "height": 280
+    },
+    "map/mo_t_orgrimmar.webp": {
+      "file": "map/mo_t_orgrimmar.webp",
+      "width": 256,
+      "height": 280
+    },
+    "map/mo_t_port.webp": {
+      "file": "map/mo_t_port.webp",
+      "width": 359,
+      "height": 280
+    },
+    "map/mo_t_stormwind.webp": {
+      "file": "map/mo_t_stormwind.webp",
+      "width": 281,
+      "height": 280
+    },
+    "map/mo_t_thunderbluff.webp": {
+      "file": "map/mo_t_thunderbluff.webp",
+      "width": 309,
+      "height": 280
+    },
+    "map/mo_t_undercity.webp": {
+      "file": "map/mo_t_undercity.webp",
+      "width": 278,
+      "height": 280
+    },
+    "map/mo_t_village.webp": {
+      "file": "map/mo_t_village.webp",
+      "width": 303,
+      "height": 280
+    },
+    "map/mo_tram.webp": {
+      "file": "map/mo_tram.webp",
+      "width": 185,
+      "height": 200
+    },
+    "map/mo_well.webp": {
+      "file": "map/mo_well.webp",
+      "width": 119,
+      "height": 160
+    },
+    "map/mo_zeppelin.webp": {
+      "file": "map/mo_zeppelin.webp",
+      "width": 105,
+      "height": 200
+    },
+    "props/bone_pile.webp": {
+      "file": "props/bone_pile.webp",
+      "width": 290,
+      "height": 260
+    },
+    "props/crates.webp": {
+      "file": "props/crates.webp",
+      "width": 221,
+      "height": 260
+    },
+    "props/crystal.webp": {
+      "file": "props/crystal.webp",
+      "width": 218,
+      "height": 260
+    },
+    "props/pillar.webp": {
+      "file": "props/pillar.webp",
+      "width": 149,
+      "height": 260
+    },
+    "props/prop_cactus.webp": {
+      "file": "props/prop_cactus.webp",
+      "width": 233,
+      "height": 260
+    },
+    "props/prop_cauldron.webp": {
+      "file": "props/prop_cauldron.webp",
+      "width": 211,
+      "height": 260
+    },
+    "props/prop_coffin.webp": {
+      "file": "props/prop_coffin.webp",
+      "width": 286,
+      "height": 260
+    },
+    "props/prop_coral.webp": {
+      "file": "props/prop_coral.webp",
+      "width": 271,
+      "height": 260
+    },
+    "props/prop_gears.webp": {
+      "file": "props/prop_gears.webp",
+      "width": 322,
+      "height": 260
+    },
+    "props/prop_hive.webp": {
+      "file": "props/prop_hive.webp",
+      "width": 301,
+      "height": 260
+    },
+    "props/prop_ice.webp": {
+      "file": "props/prop_ice.webp",
+      "width": 251,
+      "height": 260
+    },
+    "props/prop_kegs.webp": {
+      "file": "props/prop_kegs.webp",
+      "width": 259,
+      "height": 260
+    },
+    "props/prop_kodo_skull.webp": {
+      "file": "props/prop_kodo_skull.webp",
+      "width": 301,
+      "height": 260
+    },
+    "props/prop_log.webp": {
+      "file": "props/prop_log.webp",
+      "width": 309,
+      "height": 260
+    },
+    "props/prop_minecart.webp": {
+      "file": "props/prop_minecart.webp",
+      "width": 224,
+      "height": 260
+    },
+    "props/prop_mushroom.webp": {
+      "file": "props/prop_mushroom.webp",
+      "width": 257,
+      "height": 260
+    },
+    "props/prop_obsidian.webp": {
+      "file": "props/prop_obsidian.webp",
+      "width": 269,
+      "height": 260
+    },
+    "props/prop_sandstone.webp": {
+      "file": "props/prop_sandstone.webp",
+      "width": 271,
+      "height": 260
+    },
+    "props/prop_snowrock.webp": {
+      "file": "props/prop_snowrock.webp",
+      "width": 237,
+      "height": 260
+    },
+    "props/prop_stump.webp": {
+      "file": "props/prop_stump.webp",
+      "width": 287,
+      "height": 260
+    },
+    "props/prop_swamp_root.webp": {
+      "file": "props/prop_swamp_root.webp",
+      "width": 256,
+      "height": 260
+    },
+    "props/prop_titan_block.webp": {
+      "file": "props/prop_titan_block.webp",
+      "width": 243,
+      "height": 260
+    },
+    "props/prop_tombstone.webp": {
+      "file": "props/prop_tombstone.webp",
+      "width": 285,
+      "height": 260
+    },
+    "props/prop_troll_idol.webp": {
+      "file": "props/prop_troll_idol.webp",
+      "width": 236,
+      "height": 260
+    },
+    "props/rock_1.webp": {
+      "file": "props/rock_1.webp",
+      "width": 315,
+      "height": 260
+    },
+    "props/rock_2.webp": {
+      "file": "props/rock_2.webp",
+      "width": 279,
+      "height": 260
+    },
+    "towns/town_screen_astranaar.webp": {
+      "file": "towns/town_screen_astranaar.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_auberdine.webp": {
+      "file": "towns/town_screen_auberdine.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_bootybay.webp": {
+      "file": "towns/town_screen_bootybay.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_cenarion.webp": {
+      "file": "towns/town_screen_cenarion.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_darkshire.webp": {
+      "file": "towns/town_screen_darkshire.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_darnassus.webp": {
+      "file": "towns/town_screen_darnassus.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_everlook.webp": {
+      "file": "towns/town_screen_everlook.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_gadgetzan.webp": {
+      "file": "towns/town_screen_gadgetzan.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_gromgol.webp": {
+      "file": "towns/town_screen_gromgol.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_ironforge.webp": {
+      "file": "towns/town_screen_ironforge.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_lakeshire.webp": {
+      "file": "towns/town_screen_lakeshire.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_lightshope.webp": {
+      "file": "towns/town_screen_lightshope.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_menethil.webp": {
+      "file": "towns/town_screen_menethil.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_orgrimmar.webp": {
+      "file": "towns/town_screen_orgrimmar.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_ratchet.webp": {
+      "file": "towns/town_screen_ratchet.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_southshore.webp": {
+      "file": "towns/town_screen_southshore.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_stormwind.webp": {
+      "file": "towns/town_screen_stormwind.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_theramore.webp": {
+      "file": "towns/town_screen_theramore.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_thunderbluff.webp": {
+      "file": "towns/town_screen_thunderbluff.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "towns/town_screen_undercity.webp": {
+      "file": "towns/town_screen_undercity.webp",
+      "width": 1600,
+      "height": 900
+    }
+  }
+}
