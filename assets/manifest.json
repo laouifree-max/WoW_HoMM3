@@ -1748,47 +1748,56 @@
     "creatures/merc_apothecary.webp": {
       "file": "creatures/merc_apothecary.webp",
       "width": 349,
-      "height": 440
+      "height": 440,
+      "size": 58516
     },
     "creatures/merc_grunt.webp": {
       "file": "creatures/merc_grunt.webp",
       "width": 408,
-      "height": 440
+      "height": 440,
+      "size": 58220
     },
     "creatures/merc_guard.webp": {
       "file": "creatures/merc_guard.webp",
       "width": 394,
-      "height": 440
+      "height": 440,
+      "size": 63300
     },
     "creatures/merc_headhunter.webp": {
       "file": "creatures/merc_headhunter.webp",
       "width": 337,
-      "height": 440
+      "height": 440,
+      "size": 61602
     },
     "creatures/merc_ogre.webp": {
       "file": "creatures/merc_ogre.webp",
       "width": 421,
-      "height": 440
+      "height": 440,
+      "size": 57658
     },
     "creatures/merc_priestess.webp": {
       "file": "creatures/merc_priestess.webp",
       "width": 334,
-      "height": 440
+      "height": 440,
+      "size": 62244
     },
     "creatures/merc_rifleman.webp": {
       "file": "creatures/merc_rifleman.webp",
       "width": 444,
-      "height": 440
+      "height": 440,
+      "size": 63872
     },
     "creatures/merc_tauren.webp": {
       "file": "creatures/merc_tauren.webp",
       "width": 418,
-      "height": 440
+      "height": 440,
+      "size": 68142
     },
     "creatures/merc_wildhammer.webp": {
       "file": "creatures/merc_wildhammer.webp",
       "width": 417,
-      "height": 440
+      "height": 440,
+      "size": 73594
     },
     "creatures/moam.webp": {
       "file": "creatures/moam.webp",
@@ -1858,7 +1867,8 @@
     "creatures/nightsaber.webp": {
       "file": "creatures/nightsaber.webp",
       "width": 500,
-      "height": 440
+      "height": 440,
+      "size": 66806
     },
     "creatures/noth.webp": {
       "file": "creatures/noth.webp",
@@ -2178,7 +2188,8 @@
     "creatures/tallstrider.webp": {
       "file": "creatures/tallstrider.webp",
       "width": 386,
-      "height": 440
+      "height": 440,
+      "size": 45008
     },
     "creatures/targorr.webp": {
       "file": "creatures/targorr.webp",
@@ -2298,7 +2309,8 @@
     "creatures/voidwalker.webp": {
       "file": "creatures/voidwalker.webp",
       "width": 420,
-      "height": 440
+      "height": 440,
+      "size": 76848
     },
     "creatures/voodooTotem.webp": {
       "file": "creatures/voodooTotem.webp",
