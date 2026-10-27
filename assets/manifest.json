@@ -1290,6 +1290,16 @@
       "width": 486,
       "height": 480
     },
+    "creatures/druid_bear_nightelf.webp": {
+      "file": "creatures/druid_bear_nightelf.webp",
+      "width": 476,
+      "height": 440
+    },
+    "creatures/druid_bear_tauren.webp": {
+      "file": "creatures/druid_bear_tauren.webp",
+      "width": 436,
+      "height": 440
+    },
     "creatures/earth_elemental.webp": {
       "file": "creatures/earth_elemental.webp",
       "width": 422,
@@ -3187,6 +3197,11 @@
       "width": 128,
       "height": 128
     },
+    "icons/bear-bash.webp": {
+      "file": "icons/bear-bash.webp",
+      "width": 128,
+      "height": 128
+    },
     "icons/bestial.webp": {
       "file": "icons/bestial.webp",
       "width": 128,
@@ -3352,6 +3367,11 @@
       "width": 128,
       "height": 128
     },
+    "icons/demo-roar.webp": {
+      "file": "icons/demo-roar.webp",
+      "width": 128,
+      "height": 128
+    },
     "icons/demo-shout.webp": {
       "file": "icons/demo-shout.webp",
       "width": 128,
@@ -3489,6 +3509,11 @@
     },
     "icons/fear.webp": {
       "file": "icons/fear.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/feral-charge.webp": {
+      "file": "icons/feral-charge.webp",
       "width": 128,
       "height": 128
     },
@@ -3849,6 +3874,11 @@
     },
     "icons/mana-tide.webp": {
       "file": "icons/mana-tide.webp",
+      "width": 128,
+      "height": 128
+    },
+    "icons/maul.webp": {
+      "file": "icons/maul.webp",
       "width": 128,
       "height": 128
     },
