@@ -2830,6 +2830,11 @@
       "width": 367,
       "height": 440
     },
+    "heroes/body_dwarf_robe_hold.webp": {
+      "file": "heroes/body_dwarf_robe_hold.webp",
+      "width": 368,
+      "height": 440
+    },
     "heroes/body_gnome_chain.webp": {
       "file": "heroes/body_gnome_chain.webp",
       "width": 329,
@@ -2847,6 +2852,11 @@
     },
     "heroes/body_gnome_robe.webp": {
       "file": "heroes/body_gnome_robe.webp",
+      "width": 341,
+      "height": 440
+    },
+    "heroes/body_gnome_robe_hold.webp": {
+      "file": "heroes/body_gnome_robe_hold.webp",
       "width": 341,
       "height": 440
     },
@@ -2870,6 +2880,11 @@
       "width": 323,
       "height": 440
     },
+    "heroes/body_human_robe_hold.webp": {
+      "file": "heroes/body_human_robe_hold.webp",
+      "width": 324,
+      "height": 440
+    },
     "heroes/body_nightelf_chain.webp": {
       "file": "heroes/body_nightelf_chain.webp",
       "width": 242,
@@ -2878,6 +2893,11 @@
     "heroes/body_nightelf_leather.webp": {
       "file": "heroes/body_nightelf_leather.webp",
       "width": 261,
+      "height": 440
+    },
+    "heroes/body_nightelf_leather_hold.webp": {
+      "file": "heroes/body_nightelf_leather_hold.webp",
+      "width": 259,
       "height": 440
     },
     "heroes/body_nightelf_plate.webp": {
@@ -2890,6 +2910,11 @@
       "width": 271,
       "height": 440
     },
+    "heroes/body_nightelf_robe_hold.webp": {
+      "file": "heroes/body_nightelf_robe_hold.webp",
+      "width": 269,
+      "height": 440
+    },
     "heroes/body_orc_chain.webp": {
       "file": "heroes/body_orc_chain.webp",
       "width": 346,
@@ -2898,6 +2923,11 @@
     "heroes/body_orc_leather.webp": {
       "file": "heroes/body_orc_leather.webp",
       "width": 353,
+      "height": 440
+    },
+    "heroes/body_orc_leather_hold.webp": {
+      "file": "heroes/body_orc_leather_hold.webp",
+      "width": 351,
       "height": 440
     },
     "heroes/body_orc_plate.webp": {
@@ -2910,6 +2940,11 @@
       "width": 370,
       "height": 440
     },
+    "heroes/body_orc_robe_hold.webp": {
+      "file": "heroes/body_orc_robe_hold.webp",
+      "width": 382,
+      "height": 440
+    },
     "heroes/body_tauren_chain.webp": {
       "file": "heroes/body_tauren_chain.webp",
       "width": 374,
@@ -2918,6 +2953,11 @@
     "heroes/body_tauren_leather.webp": {
       "file": "heroes/body_tauren_leather.webp",
       "width": 348,
+      "height": 440
+    },
+    "heroes/body_tauren_leather_hold.webp": {
+      "file": "heroes/body_tauren_leather_hold.webp",
+      "width": 347,
       "height": 440
     },
     "heroes/body_tauren_plate.webp": {
@@ -2940,6 +2980,11 @@
       "width": 339,
       "height": 440
     },
+    "heroes/body_troll_leather_hold.webp": {
+      "file": "heroes/body_troll_leather_hold.webp",
+      "width": 338,
+      "height": 440
+    },
     "heroes/body_troll_plate.webp": {
       "file": "heroes/body_troll_plate.webp",
       "width": 335,
@@ -2948,6 +2993,11 @@
     "heroes/body_troll_robe.webp": {
       "file": "heroes/body_troll_robe.webp",
       "width": 280,
+      "height": 440
+    },
+    "heroes/body_troll_robe_hold.webp": {
+      "file": "heroes/body_troll_robe_hold.webp",
+      "width": 277,
       "height": 440
     },
     "heroes/body_undead_chain.webp": {
@@ -2969,6 +3019,101 @@
       "file": "heroes/body_undead_robe.webp",
       "width": 302,
       "height": 440
+    },
+    "heroes/body_undead_robe_hold.webp": {
+      "file": "heroes/body_undead_robe_hold.webp",
+      "width": 300,
+      "height": 440
+    },
+    "heroes/hand_dwarf_robe_off.webp": {
+      "file": "heroes/hand_dwarf_robe_off.webp",
+      "width": 150,
+      "height": 111
+    },
+    "heroes/hand_dwarf_robe_wpn.webp": {
+      "file": "heroes/hand_dwarf_robe_wpn.webp",
+      "width": 72,
+      "height": 72
+    },
+    "heroes/hand_gnome_robe_off.webp": {
+      "file": "heroes/hand_gnome_robe_off.webp",
+      "width": 139,
+      "height": 108
+    },
+    "heroes/hand_gnome_robe_wpn.webp": {
+      "file": "heroes/hand_gnome_robe_wpn.webp",
+      "width": 71,
+      "height": 71
+    },
+    "heroes/hand_human_robe_off.webp": {
+      "file": "heroes/hand_human_robe_off.webp",
+      "width": 126,
+      "height": 103
+    },
+    "heroes/hand_human_robe_wpn.webp": {
+      "file": "heroes/hand_human_robe_wpn.webp",
+      "width": 60,
+      "height": 61
+    },
+    "heroes/hand_nightelf_leather_off.webp": {
+      "file": "heroes/hand_nightelf_leather_off.webp",
+      "width": 76,
+      "height": 117
+    },
+    "heroes/hand_nightelf_robe_off.webp": {
+      "file": "heroes/hand_nightelf_robe_off.webp",
+      "width": 86,
+      "height": 81
+    },
+    "heroes/hand_nightelf_robe_wpn.webp": {
+      "file": "heroes/hand_nightelf_robe_wpn.webp",
+      "width": 45,
+      "height": 41
+    },
+    "heroes/hand_orc_leather_off.webp": {
+      "file": "heroes/hand_orc_leather_off.webp",
+      "width": 96,
+      "height": 149
+    },
+    "heroes/hand_orc_robe_off.webp": {
+      "file": "heroes/hand_orc_robe_off.webp",
+      "width": 115,
+      "height": 117
+    },
+    "heroes/hand_orc_robe_wpn.webp": {
+      "file": "heroes/hand_orc_robe_wpn.webp",
+      "width": 71,
+      "height": 75
+    },
+    "heroes/hand_tauren_leather_off.webp": {
+      "file": "heroes/hand_tauren_leather_off.webp",
+      "width": 89,
+      "height": 124
+    },
+    "heroes/hand_troll_leather_off.webp": {
+      "file": "heroes/hand_troll_leather_off.webp",
+      "width": 76,
+      "height": 130
+    },
+    "heroes/hand_troll_robe_off.webp": {
+      "file": "heroes/hand_troll_robe_off.webp",
+      "width": 79,
+      "height": 91
+    },
+    "heroes/hand_troll_robe_wpn.webp": {
+      "file": "heroes/hand_troll_robe_wpn.webp",
+      "width": 50,
+      "height": 55
+    },
+    "heroes/hand_undead_robe_off.webp": {
+      "file": "heroes/hand_undead_robe_off.webp",
+      "width": 95,
+      "height": 100
+    },
+    "heroes/hand_undead_robe_wpn.webp": {
+      "file": "heroes/hand_undead_robe_wpn.webp",
+      "width": 45,
+      "height": 43
     },
     "icons/acid-spit.webp": {
       "file": "icons/acid-spit.webp",
